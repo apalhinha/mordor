@@ -35,7 +35,7 @@ aaa
 You might want to see
 where your progress should be registered
 * [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"} showing all details about the journey.
-Detail data collected by Karen Wynn Fonstad, Author of __The Atlas of Middle-earth__
+Detail data collected by Karen Wynn Fonstad, Author of *The Atlas of Middle-earth*
 * [Nerd Fitness on Walking](https://www.nerdfitness.com/blog/walking/){:target="_blank"} the guys where this challenge is inspired
 
 ---
