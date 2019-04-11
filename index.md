@@ -8,7 +8,7 @@ If you can measure the distance, the method is valid.
 # How it works
 * Walk from Hobbiton to Mordor
   * In fact, walk wherever you want. In the garden, down town, in commute, treadmill, ...
-  * We will compare yours with Sam and Frodo's progress
+  * We will compare your progress with the one of Sam and Frodo's one
   * Walk, run, bike, swim, move by any method you want, as long as you can measure distance
 * Track your progress in the (public) [Excel file](https://docs.google.com/spreadsheets/d/1oGzBmn3m_w-tq_c_vNhARID2xahvLd302_oWQIMN0hs/edit?usp=sharing){:target="_blank"}
   * No constraints nor permissions are needed to edit this file
