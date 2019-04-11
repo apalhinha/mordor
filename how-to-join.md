@@ -21,6 +21,6 @@ Some notes:
 * Your journey log will make much more sense if you use comments. Specially some time after.
 
 ---
-This page was updated in 2019-04-11
+This page was updated in 2019-04-11.
 
 {% include_relative footer.md %}
