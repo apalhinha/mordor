@@ -4,9 +4,7 @@ Process is simple:
 * Starting in the first available/free column, configure as shown in the picture
   * You will use 4 new columns.
 
-![Demo configuration]({{ site.url }}/assets/excel-demo.png | width=899)
-
-{% include_relative excel-demo.html %}
+![Demo configuration]({{ site.url }}/assets/excel-demo.png =316x899)
 
 Done. As simple as that.
 
@@ -23,6 +21,6 @@ Some notes:
 ---
 This page was updated in 2019-04-11
 
-4
+5
 
 {% include_relative footer.md %}
