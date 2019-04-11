@@ -25,10 +25,10 @@ Process is simple, just add "your space" in the [tracking Excel](https://docs.go
   * Only 3 cells/columns are available for this: A script will publish the data and for that such rigid format is needed
 * Type in your comments in the 4th column. They will appear in your history log.
 
-# How to register a given day
-aaa
+# How to record your progress in a given day
+* (content to be added)
 
-# How to see the progress
+# How to your/overall progress
 * (content to be added)
 
 # References
