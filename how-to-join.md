@@ -6,7 +6,7 @@ Process is simple:
 
 ![Demo configuration]({{ site.url }}/assets/excel-demo.png){: height="316px" width="899px"}
 
-<img src="assets/excel-demo.png" height="316" width="899">
+<img src="assets/excel-demo.png" height="316px" width="899px">
 
 Done. As simple as that.
 
@@ -21,6 +21,8 @@ Some notes:
 * Your journey log will make much more sense if you use comments. Specially some time after.
 
 ---
-This page was updated in 2019-04-11.
+This page was updated in 2019-04-11
+
+1
 
 {% include_relative footer.md %}
