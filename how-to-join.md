@@ -4,7 +4,7 @@ Process is simple:
 * Starting in the first available/free column, configure as shown in the picture
   * You will use 4 new columns.
 
-<img src="{{ site.url }}/assets/excel-demo.png" alt="Demo configuration" height="158" width="450" />
+<img src="{{ site.url }}/assets/excel-demo.png" alt="Demo configuration" height="221" width="629" />
 
 Done. As simple as that.
 
@@ -20,7 +20,5 @@ Some notes:
 
 ---
 This page was updated in 2019-04-11
-
-8
 
 {% include_relative footer.md %}
