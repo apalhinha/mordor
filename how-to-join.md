@@ -6,6 +6,8 @@ Process is simple:
 
 ![Demo configuration]({{ site.url }}/assets/excel-demo.png){: height="316px" width="899px"}
 
+<img src="assets/excel-demo.png" height="316" width="200">
+
 Done. As simple as that.
 
 You can now start registering your progress.
