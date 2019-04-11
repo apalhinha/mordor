@@ -35,7 +35,7 @@ Process is simple, just add "your space" in the [tracking Excel](https://docs.go
 You might want to see
 where your progress should be registered
 * [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"} showing all details about the journey.
-Detail data collected by Karen Wynn Fonstad, Author of *The Atlas of Middle-earth*
+Detail data by [Karen Wynn Fonstad](https://en.wikipedia.org/wiki/Karen_Wynn_Fonstad){:target="_blank"}, Author of [*The Atlas of Middle-earth*](https://www.worldcat.org/title/atlas-of-middle-earth/oclc/24142309){:target="_blank"}
 * [Nerd Fitness on Walking](https://www.nerdfitness.com/blog/walking/){:target="_blank"} the guys where this challenge is inspired
 
 ---
