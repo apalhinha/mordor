@@ -10,4 +10,5 @@ where your progress should be registered
 * [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"} showing all details about the journey
 * [Nerd Fitness on Walking](https://www.nerdfitness.com/blog/walking/){:target="_blank"} the guys where this challenge is inspired
 
-
+---
+This page was updated in 2019-04-11
