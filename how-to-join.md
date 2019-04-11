@@ -4,7 +4,7 @@ Process is simple:
 * Starting in the first available/free column, configure as shown in the picture
   * You will use 4 new columns.
 
-![Demo configuration]({{ site.url }}/assets/excel-demo.png){: height="316px" width="899px"}
+![Demo configuration]({{ site.url }}/assets/excel-demo.png | width=899)
 
 {% include_relative excel-demo.html %}
 
