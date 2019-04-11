@@ -26,10 +26,11 @@ If you can measure the distance, the method is valid.
 
 # References
 You might want to see
-where your progress should be registered
 * [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"} showing all details about the journey.
 Detail data by [Karen Wynn Fonstad](https://en.wikipedia.org/wiki/Karen_Wynn_Fonstad){:target="_blank"}, Author of [*The Atlas of Middle-earth*](https://www.worldcat.org/title/atlas-of-middle-earth/oclc/24142309){:target="_blank"}
 * [Nerd Fitness on Walking](https://www.nerdfitness.com/blog/walking/){:target="_blank"} the guys from where this challenge is inspired
 
 ---
 This page was updated in 2019-04-11
+
+{% include_relative footer.md %}
