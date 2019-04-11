@@ -3,4 +3,6 @@
 (data is missing here)
 
 ---
-This file was updated in (never)
+This page was updated in (never)
+
+{% include_relative footer.md %}
