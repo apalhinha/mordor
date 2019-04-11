@@ -6,7 +6,7 @@ Process is simple:
 
 ![Demo configuration]({{ site.url }}/assets/excel-demo.png){: height="316px" width="899px"}
 
-<img src="assets/excel-demo.png" height="316px" width="899px">
+{% include_relative excel-demo.html %}
 
 Done. As simple as that.
 
@@ -23,6 +23,6 @@ Some notes:
 ---
 This page was updated in 2019-04-11
 
-1
+2
 
 {% include_relative footer.md %}
