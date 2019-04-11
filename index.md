@@ -2,7 +2,7 @@
 
 Repeat Sam and Frodo's walk from Bag End to Mordor. Then you can destroy the Ring.
 
-Either walking, running, biking, swiming, or whatever...  
+Either walking, running, biking, swimming, or whatever...  
 If you can measure the distance, the method is valid.
 
 # How it works

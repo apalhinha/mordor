@@ -4,7 +4,7 @@ Process is simple:
 * Starting in the first available/free column, configure as shown in the picture
   * You will use 4 new columns.
 
-<img src="{{ site.url }}/assets/excel-demo.png" alt="Demo configuration" height="221" width="629" />
+<img src="{{ site.url }}/assets/excel-demo.png" alt="Demo configuration" height="190" width="539" />
 
 Done. As simple as that.
 
@@ -19,6 +19,6 @@ Some notes:
 * Your journey log will make much more sense if you use comments. Specially some time after.
 
 ---
-This page was updated in 2019-04-11
+This page was updated in 2019-04-12
 
 {% include_relative footer.md %}
