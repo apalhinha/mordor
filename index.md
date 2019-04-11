@@ -7,15 +7,16 @@ If you can measure the distance, the method is valid.
 
 # How it works
 * Walk from Hobbiton to Mordor
-  * In fact, walk wherever you want. In the garden, down town, in comute, treadmill, ...
+  * In fact, walk wherever you want. In the garden, down town, in commute, treadmill, ...
   * We will compare yours with Sam and Frodo's progress
   * Walk, run, bike, swim, move by any method you want, as long as you can measure distance
 * Track your progress in the (public) [Excel file](https://docs.google.com/spreadsheets/d/1oGzBmn3m_w-tq_c_vNhARID2xahvLd302_oWQIMN0hs/edit?usp=sharing){:target="_blank"}
-  * No constraints nor permissions are needed to edit this file. Use it gently, preserve content from others...
+  * No constraints nor permissions are needed to edit this file
+  * Use it gently, preserve content from others. Change only *your columns*
   * Use Km or Miles
   * Track up to 3 methods of moving (such as walk, run, bike)
 * Include some comments on your journey
-  * Feelings, text, what you saw, or tips to others are valid exaples
+  * Feelings, experiences, what you saw, or tips to others are valid examples
   * They appear your history log, visible in this site
 * Once in a while, these pages are updated, showing overall progress side by side with Sam and Frodo's progress
 

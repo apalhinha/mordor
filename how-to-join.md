@@ -8,11 +8,11 @@ Process is simple:
 Done. As simple as that.
 
 You can now start registering your progress.
-Visit xyz to see how you score amongst others.
+Visit the [current progress](progress.md) to see how you score amongst others.
 
-Keep in mind the system is not online. Once in a while the Excel data will be converted as pages in this site.
+Keep in mind this is a static site, no databases behind. Meaning, once in a while (daily for now) the Excel data will be converted as pages in this site.
 
 Some notes:
 * Use a nickname containing only letters, digits, minus '-', and underscore '_'.
-  * Rational is that your nickname will be used as a file name in this site.
+  * Your nickname will be used as a filename in this site.
 * Your journey log will make much more sense if you use comments. Specially some time after.
