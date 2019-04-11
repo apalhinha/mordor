@@ -1,3 +1,3 @@
 
 ---
-[Index](index.md) [Progress](progress.md)
+[Index](index.md) | [Progress](progress.md)
