@@ -35,6 +35,6 @@ Detail data by [Karen Wynn Fonstad](https://en.wikipedia.org/wiki/Karen_Wynn_Fon
 * [Nerd Fitness on Walking](https://www.nerdfitness.com/blog/walking/){:target="_blank"} the guys from where this challenge is inspired
 
 ---
-This page was updated in 2019-04-11
+This page was updated in 2019-04-12
 
 {% include_relative footer.md %}
