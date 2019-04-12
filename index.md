@@ -22,7 +22,8 @@ If you can measure the distance, the method is valid.
 
 # Instructions
 * [How to join](how-to-join.md)
-* How to [track your progress]
+* How to (missing)
+* View overall progress (missing)
 
 # References
 You might want to see
