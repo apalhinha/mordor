@@ -2,6 +2,7 @@
 
 Fellowship of the ring
 <table>
+  <tr><th>Aa</th><th>Aa2</th></tr>
   <tr><td>Aa</td><td>Aa2</td></tr>
   <tr><td>Bb</td><td>Bb2</td></tr>
 </table>
