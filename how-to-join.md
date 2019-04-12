@@ -3,6 +3,7 @@ Process is simple:
 * Open the [tracking Excel](https://docs.google.com/spreadsheets/d/1oGzBmn3m_w-tq_c_vNhARID2xahvLd302_oWQIMN0hs/edit?usp=sharing){:target="_blank"}:
 * Starting in the first available/free column, configure as shown in the picture
   * You will use 4 new columns.
+  * Remember the file is free for editing by anyone: Use it gently, preserve content from others, change only *your columns*
 
 <img src="{{ site.url }}/assets/excel-demo.png" alt="Demo configuration" height="190" width="539" />
 
