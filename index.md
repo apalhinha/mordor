@@ -1,4 +1,4 @@
-This site is being changed, its first version is not ready
+\[This site is being changed, its first version is not ready\]
 
 # Walk to Mordor challenge
 
