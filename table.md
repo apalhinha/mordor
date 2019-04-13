@@ -9,12 +9,6 @@ Fellowship of the ring
 <tr><td>Someone</td><td>1</td><td>Miles</td><td>Started</td><td>Active/Rest days</td></tr>
 </table>
 
-| Who | Distance Km/mi | Split | Started | Active/rest days |
-|---|---|---|---|---|
-|Peterpan| 123.8/28 | Bike 9%, Walk 3%, Run 65% | 2019-02-13, 30 days | 25/5 |
-|Abc| 123.8/28 | Bike 9%, Walk 65% | 2019-03-13, 47 days | 45/2 |
-
-
 Hi
 
 ---
