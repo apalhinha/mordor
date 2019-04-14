@@ -1,5 +1,4 @@
-\[This site is being changed, its first version is not ready\]  
-\[Not to be shared, yet\]
+\[Not ready, not to be shared, yet\]
 
 # Walk to Mordor challenge
 
@@ -23,10 +22,9 @@ If you can measure the distance, the method is valid.
   * They appear your history log, visible in this site
 * Once in a while, these pages are updated, showing overall progress side by side with Sam and Frodo's progress
 
-# Instructions
+# See
 * [How to join](how-to-join.md)
-* How to track your progress (missing)
-* View overall progress (missing)
+* [Overall progress](progress.md)
 
 # References
 You might want to see

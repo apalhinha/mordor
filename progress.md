@@ -1,16 +1,16 @@
 
-\[Work in progress\]
+\[Work in progress, not working, yet\]
 
 # Progress
 
 Fellowship of the ring
 
-<table>
-<tr><th>Who</th><th>Km</th><th>Miles</th><th>Started</th><th>Active/Rest days</th></tr>
-<tr><td>PeterPan</td><td>1</td><td>Miles</td><td>Started</td><td rowspan="2">Active/Rest days</td></tr>
-<tr><td>Someone</td><td>1</td><td>Miles</td><td>Started</td></tr>
-</table>
+| Who | Km / Miles | Split | Days and start | Active / rest |
+|---|---|---|---|---|
+| PeterPan | 9.0 / 5.6 |  | Walk/Bike: 44/56% | 4, 2019-04-13 | 3 / 1 |
+| Test1 | 17.7 / 11.0 |  | Run: 100% | 4, 2019-04-14 | 2 / 2 |
+
 ---
-This page was updated in 2019-04-14
+This page was refreshed at 2019-04-14 17:54 GMT
 
 {% include_relative footer.md %}
