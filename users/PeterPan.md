@@ -2,7 +2,7 @@
 title: Walk to Mordor: PeterPan
 ---
 
-\[Work in progress, yet incomplete\]
+\[Work in progress, quite incomplete\]
 
 # PeterPan
 

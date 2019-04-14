@@ -2,7 +2,7 @@
 title: Walk to Mordor: Test1
 ---
 
-\[Work in progress, yet incomplete\]
+\[Work in progress, quite incomplete\]
 
 # Test1
 
