@@ -13,4 +13,7 @@ Last available record on 2019-04-20 shows
 * Distance 17.7Km, 11.0mi
   * Run: 17.7Km, 11.0mi
 
+---
+This page was refreshed on 2019-04-15 00:23 GMT
+
 {% include_relative userfooter.md %}

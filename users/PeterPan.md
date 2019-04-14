@@ -14,4 +14,7 @@ Last available record on 2019-04-19 shows
   * Walk: 4.0Km, 2.5mi
   * Bike: 5.0Km, 3.1mi
 
+---
+This page was refreshed on 2019-04-15 00:23 GMT
+
 {% include_relative userfooter.md %}
