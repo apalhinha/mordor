@@ -16,6 +16,7 @@ Last available record on 2019-04-19 shows
 
 # And Frodo?
 From this point, the following happened to Frodo:
+
 | Date | Journey | Notes |
 |---|---|---|
 | 3 since started | 12Km, 23mi | Begin to sing. Walk through a deeply cloven track between tall trees |
