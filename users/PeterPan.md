@@ -22,10 +22,10 @@ We are listing 6.0Km, the same distance as your personal record in a day.
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
 | 1 | 3.2 | 8.0 | Cross The Great Road from the Brandywine Bridge. Enter Tookland. |
-| 1 | 4.0 | 12.1 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
+|   | 4.0 | 12.1 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
 
 
 ---
-This page was refreshed on 2019-04-15 18:16 GMT
+This page was refreshed on 2019-04-15 18:20 GMT
 
 {% include_relative userfooter.md %}
