@@ -23,10 +23,10 @@ From this point, the following happened to Frodo:
 | 12 | 20.9 | Camp by a stream, among stunted alder trees. Moon waxing. |
 | 13 | 0.0 | Frost. Very clear. Can see crumbled ruins on Hills ahead. |
 | 13 | 29.0 | Reach foot of the Weather Hills. Camp there. |
-| 14 | 0.0 | Follow path south toward Weathertop: path is cunningly hidden and is edged with stones where land is open. Sam recites part of ‚ÄúThe Fall of Gil-galad.‚Äù |
+| 14 | 0.0 | Follow path south toward Weathertop: path is cunningly hidden and is edged with stones where land is open. Sam recites part of 'The Fall of Gil-galad'. |
 | 14 | 16.1 | Midday - Near south end of path. Reach dell at western foot of hill. |
-| 14 | 1.6 | Climb to top of†Weathertop†and enter the ruins of the watch Tower of Amon. See Black Riders on road below. |
-| 14 | 1.6 | Return to dell. Camp there.†Attack†of Nazgul at night. |
+| 14 | 1.6 | Climb to top of Weathertop and enter the ruins of the watch Tower of Amon. See Black Riders on road below. |
+| 14 | 1.6 | Return to dell. Camp there. Attack of Nazgul at night. |
 | 15 | 0.0 | Injured, Frodo is carried on pony. Head south from dell. |
 | 15 | 16.1 | Cross Great East Road and enter thickets on south side. Land slopes south. |
 | 15 | 14.5 | Camp in thickets. |
@@ -34,6 +34,6 @@ From this point, the following happened to Frodo:
 
 
 ---
-This page was refreshed on 2019-04-15 15:25 GMT
+This page was refreshed on 2019-04-15 16:42 GMT
 
 {% include_relative userfooter.md %}

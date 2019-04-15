@@ -16,7 +16,7 @@ Last available record on 2019-04-18 shows
 From this point, the following happened to Frodo:
 | Day | Journey | Notes |
 | --- | --- | --- |
-| 1 | 0.0 | Leave†Bag End†at full dark (ca. 7 p.m.). Go around (W) end, jump hedge. |
+| 1 | 0.0 | Leave Bag End at full dark (ca. 7 p.m.). Go around (W) end, jump hedge. |
 | 1 | 1.6 | Go through gate into a lane. Head west. |
 | 1 | 1.6 | Leave lane, follow hedgerows south. |
 | 1 | 1.6 | Cross The Water on a plank bridge |
@@ -31,9 +31,9 @@ From this point, the following happened to Frodo:
 | 2 | 0.0 | Eat at campsite. Water from a stream at the foot of the hill. "A little fall where the water fell a few feet over an outcrop of grey stone". After 10:00 a.m. when leave. |
 | 2 | 16.1 | Road rolls up and down. |
 | 2 | 1.6 | Road zig-zigs to top of a steep bank and goes down for the last time. Can see across Woody End to the River. They stop to rest, eat, and rest more! (ca. 1:30-4:30 p.m.) Sun was 'beginning to get low' as they went down the hill. |
-| 2 | 4.8 | Road ahead runs fairly straight and level. Behind them it curves slightly.†A BLACK RIDER comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |
-| 2 | 4.8 | Keep a stone‚Äôs throw left of the road...slower going. |
-| 2 | 3.2 | Road splits. Road to Stock bends left and goes down into the lowlands. They take a lane which branches to the right, winding through a wood of ancient Oaks. ‚ÄúSun down and evening coming on‚Äù (ca. 6:30 p.m.). Quite close to the road-meeting they creep inside a huge tree. Eat and rest. |
+| 2 | 4.8 | Road ahead runs fairly straight and level. Behind them it curves slightly. A Black Rider comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |
+| 2 | 4.8 | Keep a stone's throw left of the road...slower going. |
+| 2 | 3.2 | Road splits. Road to Stock bends left and goes down into the lowlands. They take a lane which branches to the right, winding through a wood of ancient Oaks. 'Sun down and evening coming on' (ca. 6:30 p.m.). Quite close to the road-meeting they creep inside a huge tree. Eat and rest. |
 | 2 | 1.6 | Go on in twilight. Begin to sing. (ca. 7:00 p.m.) |
 | 2 | 4.8 | 'And now to bed!' Pippin says, when Black Rider is heard again (ca. 9 p.m.). Elves arrive, Rider leaves, and Frodo & Co. continue with Elves. |
 | 2 | 4.8 | Wood more dense, and lane went lower, running in a fold of hills, with hazel on the slopes alongside. Pippin quickly becomes sleepy. |
@@ -43,17 +43,17 @@ From this point, the following happened to Frodo:
 | 3 | 1.6 | A deep-banked stream below the hill cuts across their path. Looking back, they see a Black Rider on the hillcrest where they had camped. They force through the bushes alongside the stream. |
 | 3 | 1.6 | Pippin realizes it is the Stock-brook. The banks are low enough now for them to cross. The land on its south bank is wet and reedy. |
 | 3 | 3.2 | They reach a belt of trees, mostly oaks with a few elms and ash. Drops of rain fall. |
-| 3 | 3.2 | Pippin realizes they‚Äôve turned too far south as they are still in the trees. |
+| 3 | 3.2 | Pippin realizes they've turned too far south as they are still in the trees. |
 | 3 | 3.2 | Still in the trees, they stop for lunch (ca. 2:00 p.m.). Their singing is cut by the cry of a Black Rider, and they leave (ca. 3:00 p.m.). |
 | 3 | 1.6 | Wood ends. The land steadily becomes more tame. Sun is shining brightly. |
 | 3 | 1.6 | Reach area of the Marish with fields, meadows, hedges, gates, and drainage dikes. |
 | 3 | 8.0 | Edges of fields worked by Farmer Maggot. |
-| 3 | 1.6 | After a turnip field there is a stout gate to a rutted lane, edged by hedges.†††† |
-| 3 | 1.6 | Farmer Maggota's house and buildings: brick with thatched roofs, surrounded by a high wall cut by a wooden gate from the lane. Eat. (Est. time there: 5:30 - 7:00 p.m.:†full dark when they leave). |
+| 3 | 1.6 | After a turnip field there is a stout gate to a rutted lane, edged by hedges.     |
+| 3 | 1.6 | Farmer Maggota's house and buildings: brick with thatched roofs, surrounded by a high wall cut by a wooden gate from the lane. Eat. (Est. time there: 5:30 - 7:00 p.m.: full dark when they leave). |
 | 3 | 3.2 | Farmer Maggota's lane meets the Causeway to Buckleberry Ferry. Ride in wagon. |
 | 3 | 8.0 | Boggy land all around. Foggy. Merry meets them at the Ferry landing. As they reach the other side of the river, they can see a Black Rider on the west shore. |
 | 3 | 0.8 | Taking the main road north from the Ferry, Buck Hill is on the left and Buckleberry on the right. They take a lane to the right, and climb up and down into the country. |
-| 3 | 4.0 | Crickhollow†- spend the night. 'A Conspiracy Unmasked'. |
+| 3 | 4.0 | Crickhollow - spend the night. 'A Conspiracy Unmasked'. |
 | 4 | 0.0 | Leave Crickhollow soon after 6:00 a.m. Foggy. Ride ponies slowly. |
 | 4 | 4.8 | Enter tunnel under Hedge to reach The Old Forest. Path disappears (ca. 7:15 a.m.). |
 | 4 | 3.2 | The Bonfire Glade - clear path beyond. Sunny, but not yet in clearing (ca. 8 a.m.). |
@@ -67,6 +67,6 @@ From this point, the following happened to Frodo:
 
 
 ---
-This page was refreshed on 2019-04-15 15:25 GMT
+This page was refreshed on 2019-04-15 16:42 GMT
 
 {% include_relative userfooter.md %}
