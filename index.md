@@ -24,6 +24,7 @@ If you can measure the distance, the method is valid.
 
 # See
 * [How to join](how-to-join.md)
+* [What to Expect](what-to-expect.md)
 * [Overall progress](progress.md)
 
 # References

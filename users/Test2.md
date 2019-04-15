@@ -1,17 +1,17 @@
 ---
-title: Walk to Mordor: Test1
+title: Walk to Mordor: Test2
 ---
 
 \[Work in progress, quite incomplete\]
 
-# Test1
+# Test2
 
 Started the 'Walk to Mordor' challenge on 2019-04-17
 
 Last available record on 2019-04-22 shows
 * 4 Active days, 2 rest days
-* Distance 29.0mi
-  * Run: 29.0mi
+* Distance 28.9mi
+  * Run: 28.9mi
 
 # And Frodo?
 From this point, the following happened to Frodo:

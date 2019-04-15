@@ -5,10 +5,12 @@ Fellowship of the ring
 
 | Who | Km / Miles | Split | Days and start | Active / rest |
 | --- | :---: | --- | --- | --- |
-| [PeterPan](users/PeterPan.md) | 9.0 / 5.6 | Walk/Bike: 44/56% | 4, 2019-04-16 | 3 / 1 |
-| [Test1](users/Test1.md) | 17.7 / 11.0 | Run: 100% | 4, 2019-04-17 | 2 / 2 |
+| [PeterPan](users/PeterPan.md) | 0.0 / 0.0 | : % | 1, 2019-04-18 | 1 / 0 |
+| [Test1](users/Test1.md) | 46.7 / 29.0 | Run: 100% | 6, 2019-04-17 | 4 / 2 |
+| [Test2](users/Test2.md) | 46.5 / 28.9 | Run: 100% | 6, 2019-04-17 | 4 / 2 |
+| [Test3](users/Test3.md) | 288.0 / 179.0 | Run: 100% | 1, 2019-04-21 | 1 / 0 |
 
 ---
-This page was refreshed on 2019-04-15 13:13 GMT
+This page was refreshed on 2019-04-15 15:25 GMT
 
 {% include_relative footer.md %}
