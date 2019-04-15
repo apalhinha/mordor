@@ -1,5 +1,3 @@
-\[Not ready, not to be shared, yet\]
-
 # Walk to Mordor challenge
 
 Repeat Sam and Frodo's walk from Bag End to Mordor. Then you can destroy the Ring.

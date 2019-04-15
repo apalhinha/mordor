@@ -2,8 +2,6 @@
 title: Walk to Mordor: PeterPan
 ---
 
-\[Work in progress, quite incomplete\]
-
 # PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
@@ -26,6 +24,6 @@ We are listing 6.0Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-15 18:20 GMT
+This page was refreshed on 2019-04-15 18:25 GMT
 
 {% include_relative userfooter.md %}
