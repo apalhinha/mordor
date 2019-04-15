@@ -14,7 +14,8 @@ Last available record on 2019-04-22 shows
   * Run: 28.9mi
 
 # And Frodo?
-From this point, the following happened to Frodo:
+From this point onward, the following happened to Frodo.
+We are listing 10.0mi, the same distance as your personal record in a day.
 
 | Day | Miles | Total | Notes |
 | --- | --- | --- | --- |
@@ -24,15 +25,9 @@ From this point, the following happened to Frodo:
 | 2 | 2.0 | 37.0 | Road splits. Road to Stock bends left and goes down into the lowlands. They take a lane which branches to the right, winding through a wood of ancient Oaks. 'Sun down and evening coming on' (ca. 6:30 p.m.). Quite close to the road-meeting they creep inside a huge tree. Eat and rest. |
 | 2 | 1.0 | 38.0 | Go on in twilight. Begin to sing. (ca. 7:00 p.m.) |
 | 2 | 3.0 | 41.0 | 'And now to bed!' Pippin says, when Black Rider is heard again (ca. 9 p.m.). Elves arrive, Rider leaves, and Frodo & Co. continue with Elves. |
-| 2 | 3.0 | 44.0 | Wood more dense, and lane went lower, running in a fold of hills, with hazel on the slopes alongside. Pippin quickly becomes sleepy. |
-| 2 | 1.0 | 45.0 | Turn right off the path on 'a green ride' through thickets. |
-| 2 | 1.0 | 46.0 | Camp - Woody End. A green floor in the wood, roofed by boughs of trees. To the east a steep shoulder falls, and they can overlook the river valley. The lights of the village of Woodhall seen below (ca. 11 p.m.). |
-| 3 | 0.0 | 46.0 | Sleep late (leaving time ca. 11:00 a.m.). Frodo decides to cut SE to Buckleberry Ferry. Scramble down hill into the thick trees below. It begins to cloud up. |
-| 3 | 1.0 | 47.0 | A deep-banked stream below the hill cuts across their path. Looking back, they see a Black Rider on the hillcrest where they had camped. They force through the bushes alongside the stream. |
-| 3 | 1.0 | 48.0 | Pippin realizes it is the Stock-brook. The banks are low enough now for them to cross. The land on its south bank is wet and reedy. |
 
 
 ---
-This page was refreshed on 2019-04-15 16:57 GMT
+This page was refreshed on 2019-04-15 17:47 GMT
 
 {% include_relative userfooter.md %}
