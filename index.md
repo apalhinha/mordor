@@ -17,7 +17,7 @@ If you can measure the distance, the method is valid.
   * Track up to 3 methods of moving (such as walk, run, bike)
 * Include some comments on your journey
   * Feelings, experiences, what you saw, or tips to others are valid examples
-  * They appear your history log, visible in this site
+  * They appear your history log, soon visible in this site
 * Once in a while, these pages are updated, showing overall progress side by side with Sam and Frodo's progress
 
 # See
