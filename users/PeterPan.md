@@ -17,10 +17,12 @@ Last available record on 2019-04-19 shows
 # And Frodo?
 From this point, the following happened to Frodo:
 
-| Date | Journey | Notes |
+| Day | Journey (Km, mi) | Notes |
 |---|---|---|
-| 3 since started | 12Km, 23mi | Begin to sing. Walk through a deeply cloven track between tall trees |
-|  | 1.6Km, 1.0mi | Climb a steep slope. Pippins yawns 'Nearly midnight' |
+| 3 | 12, 23.0 | Begin to sing. Walk through a deeply cloven track between tall trees |
+|  | 1.6, 1.0 | Climb a steep slope. Pippins yawns 'Nearly midnight' |
+| | 34.5, 23.2 | Camp - In a firwood just over top of the hill. Sleep by a large tree. Fox sees them |
+| 4 | 2.0, 3.8 | Eat at campsite. Water from a stream at the foot of the hill. "A little fall where the water fell a few feet over an outcrop of grey stone". After 10:00 a.m. when leave. |
 
 
 ---
