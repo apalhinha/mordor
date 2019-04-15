@@ -24,6 +24,7 @@ If you can measure the distance, the method is valid.
 * [How to join](how-to-join.md)
 * [What to Expect](what-to-expect.md)
 * [Overall progress](progress.md)
+* The [journey by Sam and Frodo](frodo.md)
 
 # References
 You might want to see

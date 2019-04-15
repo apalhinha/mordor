@@ -2,7 +2,7 @@
 
 Sam left Bag End, in Hobbiton, on September 23rd. He reaches Rivendell carried by the Elves at 4pm, October 20th.
 
-After 66 days resting and recovering, he left heading to Lothlórien, where he arrived on January 17th.
+After 66 days resting and recovering, he left heading Lothlórien, where he arrived on January 17th.
 
 Restarted his journey on February 16th towards Rauros, then Mt Doom. The ring was destroyed on March 25th.
 
