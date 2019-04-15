@@ -27,8 +27,8 @@ In case you are using Km, after doing 288Km, you would see:
 
 ---
 
-Detailed descriptions per mile/km are obtained from [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"} 
-and written by [Karen Wynn Fonstad](https://en.wikipedia.org/wiki/Karen_Wynn_Fonstad){:target="_blank"},
+Detailed descriptions per mile/km are obtained from [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"},
+written by [Karen Wynn Fonstad](https://en.wikipedia.org/wiki/Karen_Wynn_Fonstad){:target="_blank"},
 author of [*The Atlas of Middle-earth*](https://www.worldcat.org/title/atlas-of-middle-earth/oclc/24142309){:target="_blank"}.
 
 ---
