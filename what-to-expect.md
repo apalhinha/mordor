@@ -16,7 +16,7 @@ This is what you should expect in the first 7.5 Miles:
 
 In case you are using Km, after doing 288Km, you would see:
 
-| Day | Miles | Total | Notes |
+| Day | Km | Total | Notes |
 | --- | --- | --- | --- |
 | 13 | 0.0 | 339.6 | Frost. Very clear. Can see crumbled ruins on Hills ahead. |
 |  | 29.0 | 368.5 | Reach foot of the Weather Hills. Camp there. |
