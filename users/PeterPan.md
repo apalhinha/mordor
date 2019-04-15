@@ -6,23 +6,26 @@ title: Walk to Mordor: PeterPan
 
 # PeterPan
 
-Started the 'Walk to Mordor' challenge on 2019-04-18
+Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-04-18 shows
+Last available record on 2019-04-16 shows
 * 1 Active days, 0 rest days
-* Distance 0.0Km
-  * Walk: 0.0Km
+* Distance 6.0Km
+  * Walk: 1.0Km
+  * Run: 2.0Km
+  * Bike: 3.0Km
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
-We are listing 0.0Km, the same distance as your personal record in a day.
+We are listing 6.0Km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 1 | 1.6 | 1.6 | Go through gate into a lane. Head west. |
+| 1 | 3.2 | 8.0 | Cross The Great Road from the Brandywine Bridge. Enter Tookland. |
+| 1 | 4.0 | 12.1 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
 
 
 ---
-This page was refreshed on 2019-04-15 18:08 GMT
+This page was refreshed on 2019-04-15 18:16 GMT
 
 {% include_relative userfooter.md %}
