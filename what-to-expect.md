@@ -14,7 +14,7 @@ This is what you should expect in the first 7.5 Miles:
 |  | 2.0 | 5.0 | Cross The Great Road from the Brandywine Bridge. Enter Tookland. |
 |  | 2.5 | 7.5 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
 
-In case you are using Km, after doing 288Km, you would see:
+In case you are using Km, after doing 440Km, you would see:
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
