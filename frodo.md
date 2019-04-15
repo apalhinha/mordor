@@ -14,7 +14,7 @@ Restarted his journey on February 16th towards Rauros, then Mt Doom. The ring wa
 | Rauros to Mt Doom | 30 | 756 | 470 | -/- |
 
 These and many other tracks are available in the [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"}
-including the return to Bag End, or other paths followed by their fellows.
+including the return to Bag End, or other paths followed by their friends.
 
 ---
 
