@@ -13,6 +13,14 @@ Last available record on 2019-04-16 shows
   * Run: 2.0Km
   * Bike: 3.0Km
 
+# Mileposts
+
+Mileposts achieved:
+
+| Stage | Milepost | Km | Total Km | Arrival date | Days |
+|---|---|---|---|---|---|
+| A name | A milepost | 234 | 456 | (123 Km to go) |  |
+
 # And Frodo?
 From this point onward, the following happened to Frodo.
 We are listing 6.0Km, the same distance as your personal record in a day.
