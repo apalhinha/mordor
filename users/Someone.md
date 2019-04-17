@@ -12,7 +12,8 @@ Last available record on 2019-04-23 shows
   * Run: 750.0mi
 * Goal achieved, no more Mileposts...
 
-Other users:  
+## Other users:
+
 [\<\<](PeterPan.md) | [\<PeterPan](PeterPan.md) | Someone
 
 # Mileposts
@@ -26,6 +27,6 @@ Other users:
 <p style='color:red'>Congratulations!!</p>
 
 ---
-This page was refreshed on 2019-04-17 17:04 GMT
+This page was refreshed on 2019-04-17 17:05 GMT
 
 {% include userfooter.md %}
