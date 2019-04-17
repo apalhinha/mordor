@@ -14,7 +14,7 @@ Last available record on 2019-04-23 shows
 
 ## Other users:
 
-[\<\<](PeterPan.md) | [\<PeterPan](PeterPan.md) | Someone
+[\<\<](PeterPan.md) | [\<PeterPan](PeterPan.md) | Someone | [Loki\>](Loki.md) | [\>\>](Loki.md)
 
 # Mileposts
 
@@ -27,6 +27,6 @@ Last available record on 2019-04-23 shows
 <p style='color:red'>Congratulations!!</p>
 
 ---
-This page was refreshed on 2019-04-17 17:05 GMT
+This page was refreshed on 2019-04-17 17:08 GMT
 
 {% include userfooter.md %}
