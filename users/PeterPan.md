@@ -12,7 +12,7 @@ Last available record on 2019-04-19 shows
   * Walk: 1.0Km
   * Run: 152.7Km
   * Bike: 3.0Km
-* Next milepost: Bag End to Rivendell, Bree is 59.5Km away
+* Next milepost: Bag End to Rivendell, Old Man Willow is 40.2Km away
 
 # Mileposts
 
@@ -46,6 +46,6 @@ We are listing 111.5Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 15:34 GMT
+This page was refreshed on 2019-04-17 15:55 GMT
 
 {% include userfooter.md %}
