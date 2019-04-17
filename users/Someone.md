@@ -19,13 +19,10 @@ Last available record on 2019-04-21 shows
 | Bag End to Rivendell | Crickhollow | 73.0 | 73.0 | 2019-04-18 | 2 |
 | Bag End to Rivendell | Old Man Willow | 25.0 | 98.0 | 2019-04-21 | 5 |
 
-You have reached the final goal! No more Mileposts...
-
-Congratulations!!
-
+<p style='color:red'>You have reached the final goal! No more Mileposts...</p>
 <p style='color:red'>Congratulations!!</p>
 
 ---
-This page was refreshed on 2019-04-17 14:01 GMT
+This page was refreshed on 2019-04-17 14:41 GMT
 
 {% include userfooter.md %}
