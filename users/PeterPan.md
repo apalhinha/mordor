@@ -16,7 +16,8 @@ Last available record on 2019-04-19 shows
 
 # Mileposts
 
-| Stage | Milepost | Km | Total Km | Arrival date | Days ||---|---|---|---|---|---|
+| Stage | Milepost | Km | Total Km | Arrival date | Days |
+|---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 117.5 | 117.5 | 2019-04-17 | 2 |
 
 # And Frodo?
@@ -45,6 +46,6 @@ We are listing 111.5Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 15:27 GMT
+This page was refreshed on 2019-04-17 15:29 GMT
 
 {% include userfooter.md %}

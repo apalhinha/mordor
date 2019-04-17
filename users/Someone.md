@@ -14,7 +14,8 @@ Last available record on 2019-04-23 shows
 
 # Mileposts
 
-| Stage | Milepost | Miles | Total Miles | Arrival date | Days ||---|---|---|---|---|---|
+| Stage | Milepost | Miles | Total Miles | Arrival date | Days |
+|---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 73.0 | 73.0 | 2019-04-16 | 1 |
 |  | Old Man Willow | 25.0 | 98.0 | 2019-04-17 | 2 |
 |  | Bree | 37.0 | 135.0 | 2019-04-18 | 3 |
@@ -87,6 +88,6 @@ We are listing 232.0mi, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 15:27 GMT
+This page was refreshed on 2019-04-17 15:29 GMT
 
 {% include userfooter.md %}
