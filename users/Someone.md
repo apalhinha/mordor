@@ -6,24 +6,24 @@ title: Walk to Mordor: Someone
 
 Started the 'Walk to Mordor' challenge on 2019-04-17
 
-Last available record on 2019-04-17 shows
-* 1 Active days, 0 rest days
-* Distance 3.0mi
+Last available record on 2019-04-21 shows
+* 4 Active days, 1 rest days
+* Distance 99.0mi
   * Walk: 1.0mi
-  * Run: 2.0mi
+  * Run: 98.0mi
 
-# And Frodo?
-From this point onward, the following happened to Frodo.
-We are listing 3.0mi, the same distance as your personal record in a day.
+# Mileposts
 
-| Day | Miles | Total | Notes |
-| --- | --- | --- | --- |
-| 1 | 1.0 | 3.0 | Cross The Water on a plank bridge |
-|   | 2.0 | 5.0 | Cross The Great Road from the Brandywine Bridge. Enter Tookland. |
-|   | 2.5 | 7.5 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
+| Stage | Milepost | Km | Total Km | Arrival date | Days |
+|---|---|---|---|---|---|
+| Bag End to Rivendell | Crickhollow | 73.0 | 73.0 | 2019-04-18 | 2 |
+| Bag End to Rivendell | Old Man Willow | 25.0 | 98.0 | 2019-04-21 | 5 |
 
+You have reached the final goal! No more Mileposts...
+
+Congratulations!!
 
 ---
-This page was refreshed on 2019-04-15 18:25 GMT
+This page was refreshed on 2019-04-17 13:40 GMT
 
 {% include_relative userfooter.md %}

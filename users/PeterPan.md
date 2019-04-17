@@ -6,32 +6,25 @@ title: Walk to Mordor: PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-04-16 shows
-* 1 Active days, 0 rest days
-* Distance 6.0Km
+Last available record on 2019-04-21 shows
+* 5 Active days, 1 rest days
+* Distance 257.8Km
   * Walk: 1.0Km
-  * Run: 2.0Km
+  * Run: 253.8Km
   * Bike: 3.0Km
 
 # Mileposts
 
-Mileposts achieved:
-
 | Stage | Milepost | Km | Total Km | Arrival date | Days |
 |---|---|---|---|---|---|
-| A name | A milepost | 234 | 456 | (123 Km to go) |  |
+| Bag End to Rivendell | Crickhollow | 117.5 | 117.5 | 2019-04-17 | 2 |
+| Bag End to Rivendell | Old Man Willow | 40.2 | 157.7 | 2019-04-20 | 5 |
 
-# And Frodo?
-From this point onward, the following happened to Frodo.
-We are listing 6.0Km, the same distance as your personal record in a day.
+You have reached the final goal! No more Mileposts...
 
-| Day | Km | Total | Notes |
-| --- | --- | --- | --- |
-| 1 | 3.2 | 8.0 | Cross The Great Road from the Brandywine Bridge. Enter Tookland. |
-|   | 4.0 | 12.1 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
-
+Congratulations!!
 
 ---
-This page was refreshed on 2019-04-15 18:25 GMT
+This page was refreshed on 2019-04-17 13:40 GMT
 
-{% include_relative userfooter.md %}
+{% include_relative ../userfooter.md %}
