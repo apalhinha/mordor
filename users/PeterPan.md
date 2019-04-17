@@ -1,5 +1,5 @@
 ---
-title: Walk to Mordor: PeterPan
+title: Walk to Mordor, PeterPan
 ---
 
 # PeterPan

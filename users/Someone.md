@@ -1,5 +1,5 @@
 ---
-title: Walk to Mordor: Someone
+title: Walk to Mordor, Someone
 ---
 
 # Someone
