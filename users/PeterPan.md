@@ -18,7 +18,7 @@ Last available record on 2019-04-19 shows
 | Stage | Milepost | Km | Total Km | Arrival date | Days |
 |---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 117.5 | 117.5 | 2019-04-17 | 2 |
-| Bag End to Rivendell | Old Man Willow | 40.2 | 157.7 | (1.0Km to go) |  |
+|  | Old Man Willow | 40.2 | 157.7 | (1.0Km to go) |  |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -46,6 +46,6 @@ We are listing 111.5Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 14:41 GMT
+This page was refreshed on 2019-04-17 14:47 GMT
 
 {% include userfooter.md %}

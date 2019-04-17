@@ -17,12 +17,12 @@ Last available record on 2019-04-21 shows
 | Stage | Milepost | Km | Total Km | Arrival date | Days |
 |---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 73.0 | 73.0 | 2019-04-18 | 2 |
-| Bag End to Rivendell | Old Man Willow | 25.0 | 98.0 | 2019-04-21 | 5 |
+|  | Old Man Willow | 25.0 | 98.0 | 2019-04-21 | 5 |
 
 <p style='color:red'>You have reached the final goal! No more Mileposts...</p>
 <p style='color:red'>Congratulations!!</p>
 
 ---
-This page was refreshed on 2019-04-17 14:41 GMT
+This page was refreshed on 2019-04-17 14:47 GMT
 
 {% include userfooter.md %}
