@@ -14,7 +14,7 @@ Last available record on 2019-04-19 shows
   * Bike: 3.0Km
 * Next milepost: Bag End to Rivendell, Old Man Willow is 40.2Km away
 
-### Other userss:
+## Other users:
 
 PeterPan \| [Someone\>](Someone.md) \| [\>\>](Loki.md)
 
@@ -50,6 +50,6 @@ We are listing 111.5Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 17:12 GMT
+This page was refreshed on 2019-04-17 17:21 GMT
 
 {% include userfooter.md %}
