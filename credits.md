@@ -12,3 +12,9 @@ In case you have any comments, found an error, have a suggestion or complain, pl
 In case you want to change the website, fork it in guthub, do the changes, then do a pul-request
 
 Have fun walking.
+
+---
+
+This page was updated in 2019-04-17
+
+{% include footer.md %}

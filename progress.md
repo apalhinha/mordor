@@ -11,4 +11,4 @@ Fellowship of the ring
 ---
 This page was refreshed on 2019-04-17 13:45 GMT
 
-{% include_relative footer.md %}
+{% include footer.md %}

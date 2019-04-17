@@ -15,4 +15,4 @@ Hi
 ---
 This page was updated in 2019-04-12
 
-{% include_relative footer.md %}
+{% include footer.md %}

@@ -35,4 +35,4 @@ Detail data by [Karen Wynn Fonstad](https://en.wikipedia.org/wiki/Karen_Wynn_Fon
 ---
 This page was updated in 2019-04-14
 
-{% include_relative footer.md %}
+{% include footer.md %}

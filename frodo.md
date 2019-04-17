@@ -25,4 +25,4 @@ author of [*The Atlas of Middle-earth*](https://www.worldcat.org/title/atlas-of-
 ---
 This page was updated in 2019-04-15
 
-{% include_relative footer.md %}
+{% include footer.md %}

@@ -32,6 +32,7 @@ written by [Karen Wynn Fonstad](https://en.wikipedia.org/wiki/Karen_Wynn_Fonstad
 author of [*The Atlas of Middle-earth*](https://www.worldcat.org/title/atlas-of-middle-earth/oclc/24142309){:target="_blank"}.
 
 ---
+
 This page was updated in 2019-04-15
 
-{% include_relative footer.md %}
+{% include footer.md %}
