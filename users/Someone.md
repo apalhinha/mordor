@@ -88,6 +88,6 @@ We are listing 232.0mi, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 15:29 GMT
+This page was refreshed on 2019-04-17 15:34 GMT
 
 {% include userfooter.md %}
