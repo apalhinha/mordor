@@ -20,6 +20,8 @@ Last available record on 2019-04-16 shows
 
 | Stage | Milepost | Miles | Total Miles | Arrival date | Days |
 |---|---|---|---|---|---|
+| (none) | (none) | | | | |
+
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
