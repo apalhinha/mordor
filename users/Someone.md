@@ -19,9 +19,9 @@ Last available record on 2019-04-23 shows
 |  | Old Man Willow | 25.0 | 98.0 | 2019-04-17 | 2 |
 |  | Bree | 37.0 | 135.0 | 2019-04-18 | 3 |
 |  | Ruins of Weathertop | 106.0 | 241.0 | 2019-04-19 | 4 |
-|  | The lands of the Trollshaws | 121.0 | 362.0 | 2019-04-20 | 5 |
+|  | The lands of the Trollshaws | 121.0 | 362.0 | 2019-04-20 | 5 |
 |  | Rivendell | 96.0 | 458.0 | 2019-04-21 | 6 |
-| Rivendell to Lothlórien | Hollin Ridge | 232.0 | 690.0 | 2019-04-22 | 7 |
+| Rivendell to Lothlorien | Hollin Ridge | 232.0 | 690.0 | 2019-04-22 | 7 |
 |  | Redhorn Pass | 60.0 | 750.0 | 2019-04-23 | 8 |
 |  | Doors of Moria | 48.0 | 798.0 | (48.0mi to go) |  |
 
