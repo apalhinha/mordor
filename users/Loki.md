@@ -14,7 +14,7 @@ Last available record on 2019-04-16 shows
 
 ## Other users:
 
-[\<\<](PeterPan.md) | [\<Someone](Someone.md) | Loki
+[\<\<](PeterPan.md) \| [\<Someone](Someone.md) \| Loki
 
 # Mileposts
 
@@ -33,6 +33,6 @@ We are listing 2.0mi, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 17:08 GMT
+This page was refreshed on 2019-04-17 17:10 GMT
 
 {% include userfooter.md %}

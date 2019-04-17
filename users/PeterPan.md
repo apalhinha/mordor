@@ -16,7 +16,7 @@ Last available record on 2019-04-19 shows
 
 ## Other users:
 
-PeterPan | [Someone\>](Someone.md) | [\>\>](Loki.md)
+PeterPan \| [Someone\>](Someone.md) \| [\>\>](Loki.md)
 
 # Mileposts
 
@@ -50,6 +50,6 @@ We are listing 111.5Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 17:08 GMT
+This page was refreshed on 2019-04-17 17:10 GMT
 
 {% include userfooter.md %}
