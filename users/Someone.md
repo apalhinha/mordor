@@ -7,7 +7,7 @@ title: Walk to Mordor, Someone
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
 Last available record on 2019-04-23 shows
-* 8 Active days, 0 rest days
+* 8 Active days, 0 rest days!
 * Distance 750.0mi
   * Run: 750.0mi
 
