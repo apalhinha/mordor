@@ -12,11 +12,8 @@ Last available record on 2019-04-23 shows
   * Run: 750.0mi
 * Goal achieved, no more Mileposts...
 
-Per active days  
-[\<\<](PeterPan.md) | [\<auser](PeterPan.md) | PeterPan | [another\>](PeterPan.md) | [\>\>](PeterPan.md)
-
-Per distance  
-[\<\<](PeterPan.md) [\<\[auser\]](PeterPan.md) PeterPan [\[another\]\>](PeterPan.md) [\>\>](PeterPan.md)
+Other users:  
+[\<\<](PeterPan.md) | [\<PeterPan](PeterPan.md) | Someone | [\>\>](Someone.md)
 
 # Mileposts
 
@@ -29,6 +26,6 @@ Per distance
 <p style='color:red'>Congratulations!!</p>
 
 ---
-This page was refreshed on 2019-04-17 16:02 GMT
+This page was refreshed on 2019-04-17 16:50 GMT
 
 {% include userfooter.md %}
