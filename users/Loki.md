@@ -16,10 +16,6 @@ Last available record on 2019-04-17 shows
 
 [\<\<](PeterPan.md) \| [\<PeterPan](PeterPan.md) \| Loki
 
-# Mileposts
-
-No mileposts were achieved, yet.
-
 # And Frodo?
 From this point onward, the following happened to Frodo.
 We are listing 4.0mi, the same distance as your personal record in a day.
@@ -32,6 +28,6 @@ We are listing 4.0mi, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 17:30 GMT
+This page was refreshed on 2019-04-17 17:44 GMT
 
 {% include userfooter.md %}
