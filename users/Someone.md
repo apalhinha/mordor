@@ -23,6 +23,8 @@ You have reached the final goal! No more Mileposts...
 
 Congratulations!!
 
+<p style='color:red'>Congratulations!!</p>
+
 ---
 This page was refreshed on 2019-04-17 14:01 GMT
 
