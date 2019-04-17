@@ -12,7 +12,7 @@ Last available record on 2019-04-16 shows
   * Run: 2.0mi
 * Next milepost: Bag End to Rivendell, Old Man Willow is 25.0mi away
 
-## Other users:
+### Other userss:
 
 [\<\<](PeterPan.md) \| [\<Someone](Someone.md) \| Loki
 
@@ -33,6 +33,6 @@ We are listing 2.0mi, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 17:10 GMT
+This page was refreshed on 2019-04-17 17:12 GMT
 
 {% include userfooter.md %}
