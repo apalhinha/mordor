@@ -7,14 +7,14 @@ title: Walk to Mordor, Someone
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
 Last available record on 2019-04-23 shows
-* 8 Active days, 0 rest days!
+* 8 Active days, 0 rest days
 * Distance 750.0mi
   * Run: 750.0mi
+* Next milepost: Rivendell to Lothlorien, Doors of Moria is 48.0mi away
 
 # Mileposts
 
-| Stage | Milepost | Km | Total Km | Arrival date | Days |
-|---|---|---|---|---|---|
+| Stage | Milepost | Miles | Total Miles | Arrival date | Days ||---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 73.0 | 73.0 | 2019-04-16 | 1 |
 |  | Old Man Willow | 25.0 | 98.0 | 2019-04-17 | 2 |
 |  | Bree | 37.0 | 135.0 | 2019-04-18 | 3 |
@@ -23,7 +23,6 @@ Last available record on 2019-04-23 shows
 |  | Rivendell | 96.0 | 458.0 | 2019-04-21 | 6 |
 | Rivendell to Lothlorien | Hollin Ridge | 232.0 | 690.0 | 2019-04-22 | 7 |
 |  | Redhorn Pass | 60.0 | 750.0 | 2019-04-23 | 8 |
-|  | Doors of Moria | 48.0 | 798.0 | (48.0mi to go) |  |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -88,6 +87,6 @@ We are listing 232.0mi, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 14:53 GMT
+This page was refreshed on 2019-04-17 15:27 GMT
 
 {% include userfooter.md %}

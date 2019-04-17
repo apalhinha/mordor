@@ -12,13 +12,12 @@ Last available record on 2019-04-19 shows
   * Walk: 1.0Km
   * Run: 152.7Km
   * Bike: 3.0Km
+* Next milepost: Bag End to Rivendell, Bree is 59.5Km away
 
 # Mileposts
 
-| Stage | Milepost | Km | Total Km | Arrival date | Days |
-|---|---|---|---|---|---|
+| Stage | Milepost | Km | Total Km | Arrival date | Days ||---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 117.5 | 117.5 | 2019-04-17 | 2 |
-|  | Bree | 59.5 | 217.3 | (60.5Km to go) |  |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -46,6 +45,6 @@ We are listing 111.5Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-17 14:53 GMT
+This page was refreshed on 2019-04-17 15:27 GMT
 
 {% include userfooter.md %}
