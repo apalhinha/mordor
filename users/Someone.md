@@ -13,7 +13,7 @@ Last available record on 2019-04-23 shows
 * Goal achieved, no more Mileposts...
 
 Per active days  
-[\<\<](PeterPan.md) [\<\[auser\]](PeterPan.md) PeterPan [\[another\]\>](PeterPan.md) [\>\>](PeterPan.md)
+[\<\<](PeterPan.md) | \<[\[auser\]](PeterPan.md) | PeterPan | [\[another\]](PeterPan.md)\> | [\>\>](PeterPan.md)
 
 Per distance  
 [\<\<](PeterPan.md) [\<\[auser\]](PeterPan.md) PeterPan [\[another\]\>](PeterPan.md) [\>\>](PeterPan.md)
