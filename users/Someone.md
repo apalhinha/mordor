@@ -12,6 +12,12 @@ Last available record on 2019-04-23 shows
   * Run: 750.0mi
 * Goal achieved, no more Mileposts...
 
+Per active days  
+[<<](PeterPan.md) [<auser](PeterPan.md) PeterPan [another>](PeterPan.md) [>>](PeterPan.md)
+
+Per distance  
+[<<](PeterPan.md) [<auser](PeterPan.md) PeterPan [another>](PeterPan.md) [>>](PeterPan.md)
+
 # Mileposts
 
 | Stage | Milepost | Miles | Total Miles | Arrival date | Days |
