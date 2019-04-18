@@ -9,6 +9,6 @@ Fellowship of the ring
 | [Loki](users/Loki.md) | 6.5 / 4.0 | Walk: 100% | 1, 2019-04-17 | 1 / 0 |
 
 ---
-This page was refreshed on 2019-04-18 08:33 GMT
+This page was refreshed on 2019-04-18 10:17 GMT
 
 {% include footer.md %}
