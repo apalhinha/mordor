@@ -14,10 +14,10 @@ These are Frodo's and Challenge's events.
 
 | Distance | Frodo | This team |
 | --- | --- | --- |
-| 8.0 / 5.0 | Day 1, Cross The Great Road from the Brandywine Bridge. Enter Tookland. |  Loki, day 1. |
-| 12.1 / 7.5 | Day 1, Look back at lights of Hobbiton from first slopes of the Green Hill Country. |  PeterPan, day 2: Health not that good. Used area CCA to the beach and return. |
+| 8.0 / 5.0 | Day 1, Cross The Great Road from the Brandywine Bridge. Enter Tookland. |  [Loki](users/Loki.md), day 1. |
+| 12.1 / 7.5 | Day 1, Look back at lights of Hobbiton from first slopes of the Green Hill Country. |  [PeterPan](users/PeterPan.md), day 2: Health not that good. Used area CCA to the beach and return. |
 
 ---
-This page was refreshed on 2019-04-18 17:26 GMT
+This page was refreshed on 2019-04-18 17:28 GMT
 
 {% include footer.md %}
