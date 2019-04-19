@@ -10,7 +10,7 @@ Last available record on 2019-04-17 shows
 * 1 Active days, 0 rest days
 * Distance 2.0mi
   * Run: 2.0mi
-* Next milepost: Bag End to Rivendell, Old Man Willow is 25.0mi away
+* Next milepost: Bag End to Rivendell, Crickhollow is 73.0mi away
 
 ## Other users:
 
@@ -27,6 +27,6 @@ We are listing 2.0mi, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-19 12:22 GMT
+This page was refreshed on 2019-04-19 12:25 GMT
 
 {% include userfooter.md %}
