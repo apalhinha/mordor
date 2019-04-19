@@ -6,10 +6,10 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-04-17 shows
-* 2 Active days, 0 rest days
-* Distance 8.2Km
-  * Walk: 8.2Km
+Last available record on 2019-04-18 shows
+* 3 Active days, 0 rest days
+* Distance 12.5Km
+  * Walk: 12.5Km
 * Next milepost: Bag End to Rivendell, Old Man Willow is 40.2Km away
 
 ## Other users:
@@ -22,11 +22,11 @@ We are listing 4.3Km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 1 | 4.0 | 12.1 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
-|   | 2.4 | 14.5 | Hobbiton hidden as slopes rise and fall. |
+| 1 | 2.4 | 14.5 | Hobbiton hidden as slopes rise and fall. |
+|   | 3.2 | 17.7 | Stop in a birch grove. Eat a frugal supper (ca. 10 p.m.). |
 
 
 ---
-This page was refreshed on 2019-04-18 17:31 GMT
+This page was refreshed on 2019-04-19 12:22 GMT
 
 {% include userfooter.md %}
