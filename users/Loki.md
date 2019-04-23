@@ -26,7 +26,16 @@ We are listing 2.4mi, the same distance as your personal record in a day.
 |   | 2.5 | 7.5 | Look back at lights of Hobbiton from first slopes of the Green Hill Country. |
 
 
+# Log
+
+Loki traveled 4.4mi in 4 days.
+
+| Day | Miles | Total | Notes |
+| --- | --- | --- | --- |
+ | 4 | Run 2.4 | Frodo day 1. |
+ | 1 | Run 2.0 |  |
+
 ---
-This page was refreshed on 2019-04-23 10:45 GMT
+This page was refreshed on 2019-04-23 15:58 GMT
 
 {% include userfooter.md %}

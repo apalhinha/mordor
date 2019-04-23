@@ -6,12 +6,11 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-04-22 shows
-* 7 Active days, 0 rest days
-* Distance 39.1Km
-  * Walk: 37.8Km
-  * Run: 1.3Km
-* Next milepost: Bag End to Rivendell, Crickhollow is 117.5Km away
+Last available record on 2019-04-16 shows
+* 1 Active days, 0 rest days
+* Distance 1.0mi
+  * Walk: 1.0mi
+* Next milepost: Bag End to Rivendell, Crickhollow is 73.0mi away
 
 ## Other users:
 
@@ -19,21 +18,23 @@ PeterPan \| [Loki\>](Loki.md) \| [\>\>](Loki.md)
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
-We are listing 7.9Km, the same distance as your personal record in a day.
+We are listing 1.0mi, the same distance as your personal record in a day.
 
-| Day | Km | Total | Notes |
+| Day | Miles | Total | Notes |
 | --- | --- | --- | --- |
-| 2 | 16.1 | 45.1 | Road rolls up and down. |
-|   | 1.6 | 46.7 | Road zig-zigs to top of a steep bank and goes down for the last time. Can see across Woody End to the River. They stop to rest, eat, and rest more! (ca. 1:30-4:30 p.m.) Sun was 'beginning to get low' as they went down the hill. |
-|   | 4.8 | 51.5 | Road ahead runs fairly straight and level. Behind them it curves slightly. A Black Rider comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |
+| 1 | 1.0 | 1.0 | Go through gate into a lane. Head west. |
+|   | 1.0 | 2.0 | Leave lane, follow hedgerows south. |
+
 
 # Log
 
-| Day | Km | Notes |
-|---|---|---|
-| 1 | Run 1.3, Walk 3.4 | Some notes. Frodo day 1 |
+PeterPan traveled 1.0mi in 1 days.
+
+| Day | Miles | Total | Notes |
+| --- | --- | --- | --- |
+ | 1 | Walk 1.0 | Health not that good. Walked around CCA. Frodo day 1. |
 
 ---
-This page was refreshed on 2019-04-23 10:45 GMT
+This page was refreshed on 2019-04-23 15:58 GMT
 
 {% include userfooter.md %}
