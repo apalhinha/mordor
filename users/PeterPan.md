@@ -11,7 +11,7 @@ Last available record on 2019-04-22 shows
 * Distance 39.1Km
   * Walk: 37.8Km
   * Run: 1.3Km
-* Next milepost: Bag End to Rivendell, Crickhollow is 78.4Km away
+* Next milepost: Bag End to Rivendell, Crickhollow is 117.5Km away
 
 ## Other users:
 
@@ -29,6 +29,6 @@ We are listing 7.9Km, the same distance as your personal record in a day.
 
 
 ---
-This page was refreshed on 2019-04-23 10:24 GMT
+This page was refreshed on 2019-04-23 10:45 GMT
 
 {% include userfooter.md %}
