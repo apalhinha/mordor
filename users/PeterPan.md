@@ -27,6 +27,11 @@ We are listing 7.9Km, the same distance as your personal record in a day.
 |   | 1.6 | 46.7 | Road zig-zigs to top of a steep bank and goes down for the last time. Can see across Woody End to the River. They stop to rest, eat, and rest more! (ca. 1:30-4:30 p.m.) Sun was 'beginning to get low' as they went down the hill. |
 |   | 4.8 | 51.5 | Road ahead runs fairly straight and level. Behind them it curves slightly. A Black Rider comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |
 
+# Log
+
+| Day | Km | Notes |
+|---|---|---|
+| 1 | Run 1.3, Walk 3.4 | Some notes. Frodo day 1 |
 
 ---
 This page was refreshed on 2019-04-23 10:45 GMT
