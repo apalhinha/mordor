@@ -6,12 +6,13 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-04-23 shows
-* 8 Active days, 0 rest days
-* Distance 42.78 km
-  * Walk: 41.47 km
+Last available record on 2019-04-26 shows
+* 11 Active days, 0 rest days
+* Distance 62.92 km
+  * Walk: 56.86 km
   * Run: 1.31 km
-* Next milepost: Bag End to Rivendell, Crickhollow is 74.7 km away
+  * Bike: 4.75 km
+* Next milepost: Bag End to Rivendell, Crickhollow is 54.56 km away
 
 ## Other users:
 
@@ -19,22 +20,25 @@ PeterPan \| [Loki\>](Loki.md) \| [\>\>](Loki.md)
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
-We are listing 7.94 km, the same distance as your personal record in a day.
+We are listing 9.31 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 2 | 16.09 | 45.06 | Road rolls up and down. |
-|   | 1.61 | 46.67 | Road zig-zigs to top of a steep bank and goes down for the last time. Can see across Woody End to the River. They stop to rest, eat, and rest more! (ca. 1:30-4:30 p.m.) Sun was 'beginning to get low' as they went down the hill. |
-|   | 4.83 | 51.5 | Road ahead runs fairly straight and level. Behind them it curves slightly. A Black Rider comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |
+| 2 | 4.83 | 65.98 | 'And now to bed!' Pippin says, when Black Rider is heard again (ca. 9 p.m.). Elves arrive, Rider leaves, and Frodo & Co. continue with Elves. |
+|   | 4.83 | 70.81 | Wood more dense, and lane went lower, running in a fold of hills, with hazel on the slopes alongside. Pippin quickly becomes sleepy. |
+|   | 1.61 | 72.42 | Turn right off the path on 'a green ride' through thickets. |
 
 
 # Log
 
-PeterPan traveled 42.78 km in 8 days.
+PeterPan traveled 62.92 km in 11 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 8 | Walk 4.67 | Many steps, few km, on shadow boxing. Frodo day 2. |
+ | 11 | Walk 4.56, Bike 4.75 | Personal record, 1st try on a bike. Frodo day 2. |
+ | 10 | Walk 6.79 |  |
+ | 9 | Walk 4.04 |  |
+ | 8 | Walk 4.67 | Many steps, few km, on shadow boxing.  |
  | 7 | Walk 6.81 | Collecting garbage, carrying it to the garbage collector.  |
  | 6 | Walk 7.15 | While gardening, back and forth.  |
  | 5 | Walk 6.63, Run 1.31 | Personal record. Frodo day 1. |
@@ -44,6 +48,6 @@ PeterPan traveled 42.78 km in 8 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-04-23 23:25 GMT
+This page was refreshed on 2019-04-27 00:31 GMT
 
 {% include userfooter.md %}
