@@ -17,7 +17,7 @@ Last available record on 2019-04-28 shows
 
 [\<\<](PeterPan.md) \| [\<Loki](Loki.md) \| Joani
 
-# Mileposts
+# Achieved mileposts
 
 | Stage | Milepost | Km | Total Km | Arrival date | Days |
 |---|---|---|---|---|---|
@@ -59,6 +59,6 @@ Joani traveled 179.7 km in 13 days.
  | 1 | Walk 11.2 | being a tourist.  |
 
 ---
-This page was refreshed on 2019-04-29 18:40 GMT
+This page was refreshed on 2019-04-29 18:53 GMT
 
 {% include userfooter.md %}
