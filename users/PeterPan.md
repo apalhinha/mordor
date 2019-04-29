@@ -16,7 +16,7 @@ Last available record on 2019-04-27 shows
 
 ## Other users:
 
-PeterPan \| [Loki\>](Loki.md) \| [\>\>](Loki.md)
+PeterPan \| [Loki\>](Loki.md) \| [\>\>](Joani.md)
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -52,6 +52,6 @@ PeterPan traveled 67.58 km in 12 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-04-28 11:00 GMT
+This page was refreshed on 2019-04-29 16:36 GMT
 
 {% include userfooter.md %}
