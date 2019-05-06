@@ -6,17 +6,23 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-01 shows
-* 16 Active days, 0 rest days
-* Distance 103 km
-  * Walk: 82.99 km
-  * Run: 6.34 km
-  * Bike: 13.67 km
-* Next milepost: Bag End to Rivendell, Crickhollow is 14.48 km away
+Last available record on 2019-05-05 shows
+* 20 Active days, 0 rest days
+* Distance 131.46 km
+  * Walk: 106.18 km
+  * Run: 9.87 km
+  * Bike: 15.41 km
+* Next milepost: Bag End to Rivendell, Old Man Willow is 26.26 km away
 
 ## Other users:
 
 PeterPan \| [Loki\>](Loki.md) \| [\>\>](Joani.md)
+
+# Achieved mileposts
+
+| Stage | Milepost | Km | Total Km | Arrival date | Days |
+|---|---|---|---|---|---|
+| Bag End to Rivendell | Crickhollow | 117.48 | 117.48 | 2019-05-04 | 19 |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -24,19 +30,24 @@ We are listing 13.64 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 3 | 3.22 | 104.61 | Farmer Maggota's lane meets the Causeway to Buckleberry Ferry. Ride in wagon. |
-|   | 8.05 | 112.65 | Boggy land all around. Foggy. Merry meets them at the Ferry landing. As they reach the other side of the river, they can see a Black Rider on the west shore. |
-|   | 0.8 | 113.46 | Taking the main road north from the Ferry, Buck Hill is on the left and Buckleberry on the right. They take a lane to the right, and climb up and down into the country. |
-|   | 4.02 | 117.48 | Crickhollow - spend the night. 'A Conspiracy Unmasked'. |
+| 4 | 12.87 | 138.4 | On path in the Forest. Path climbs gently. |
+|   | 1.61 | 140.01 | Top of knoll in Forest. Hazy. Surrounded by Trees. Eat, rest (11 a.m.-ca.1 p.m.) |
+|   | 1.61 | 141.62 | Path veers SE. Company leaves path and tries to turn north. |
+|   | 3.22 | 144.84 | Cross series of deep folds running SE. Keep turning east. Lose direction. |
+|   | 1.61 | 146.45 | Enter fold too deep to leave. Follow it SE to Withywindle (ca. 4 p.m.). |
 
 
 # Log
 
-PeterPan traveled 103 km in 16 days.
+PeterPan traveled 131.46 km in 20 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 16 | Walk 9.46, Run 1.77 | Except for the run, all while gardening. Frodo day 3. |
+ | 20 | Walk 5.58 | Frodo day 4. |
+ | 19 | Walk 7.89, Run 1.81 |  |
+ | 18 | Walk 4.63, Run 1.72, Bike 1.74 | Frodo day 3. |
+ | 17 | Walk 5.09 |  |
+ | 16 | Walk 9.46, Run 1.77 | Except for the run, all while gardening.  |
  | 15 | Walk 1.79, Run 1.63 | Same circuit for running, pedometer broken while walking.  |
  | 14 | Walk 5.5, Run 1.63 | While running, heart-rate was too high.  |
  | 13 | Walk 4.72, Bike 8.92 | To the river.  |
@@ -54,6 +65,6 @@ PeterPan traveled 103 km in 16 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-05-02 09:55 GMT
+This page was refreshed on 2019-05-06 16:51 GMT
 
 {% include userfooter.md %}

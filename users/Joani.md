@@ -6,12 +6,12 @@ title: Walk to Mordor, Joani
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-04-28 shows
-* 13 Active days, 0 rest days
-* Distance 179.7 km
-  * Walk: 151.5 km
-  * Bike: 28.2 km
-* Next milepost: Bag End to Rivendell, Bree is 37.56 km away
+Last available record on 2019-05-02 shows
+* 17 Active days, 0 rest days
+* Distance 212.2 km
+  * Walk: 177 km
+  * Bike: 35.2 km
+* Next milepost: Bag End to Rivendell, Bree is 5.06 km away
 
 ## Other users:
 
@@ -30,20 +30,22 @@ We are listing 22 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 6 | 22.53 | 180.25 | Midday. Stop in a hollow atop a hill. Eat and fall asleep. Wake in fog, sun sinking. |
-|   | 4.83 | 185.07 | Try to head north, but lose their way and become separated. Captured by Wights. |
-| 7 | 0 | 185.07 | Frodo sings, Tom rescues and recalls ponies. Leave about 10 a.m. Tom leads. |
-|   | 4.83 | 189.9 | Ride north through a gap. |
-|   | 8.05 | 197.95 | Reach dike and hedge. Former boundary of Cardolan, part of the North Kingdom of Arnor. |
-|   | 12.87 | 210.82 | Return to Great East Road (ca.5:30). Tom departs. Strider sees them, but hides. |
+| 7 | 6.44 | 217.26 | Reach Bree. Stay at The Prancing Pony. Meet Strider. Ponies stolen during night. |
+| 8 | 0 | 217.26 | Leave Bree on East Road (ca. 9:30 a.m.). |
+|   | 8.05 | 225.31 | Leave road and head north into Chetwood. No living things all day. |
+|   | 11.27 | 236.57 | Camp in Chetwood, east of Archet. |
 
 
 # Log
 
-Joani traveled 179.7 km in 13 days.
+Joani traveled 212.2 km in 17 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
+ | 17 | Walk 7.8, Bike 7 | Daily Routine + bike->rowing (2:39) Frodo day 7. |
+ | 16 | Walk 5.5 | Morning walk .  |
+ | 15 | Walk 6.6 | Daily Routine.  |
+ | 14 | Walk 5.6 | Daily routine.  |
  | 13 | Walk 20 | hiking. Frodo day 6. |
  | 12 | Walk 21 | hiking.  |
  | 11 | Walk 22 | hiking. Frodo day 4. |
@@ -59,6 +61,6 @@ Joani traveled 179.7 km in 13 days.
  | 1 | Walk 11.2 | being a tourist.  |
 
 ---
-This page was refreshed on 2019-05-02 09:55 GMT
+This page was refreshed on 2019-05-06 16:51 GMT
 
 {% include userfooter.md %}
