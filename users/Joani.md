@@ -6,12 +6,12 @@ title: Walk to Mordor, Joani
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-02 shows
-* 17 Active days, 0 rest days
-* Distance 212.2 km
-  * Walk: 177 km
-  * Bike: 35.2 km
-* Next milepost: Bag End to Rivendell, Bree is 5.06 km away
+Last available record on 2019-05-08 shows
+* 23 Active days, 0 rest days
+* Distance 268.02 km
+  * Walk: 208.9 km
+  * Bike: 59.12 km
+* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 119.83 km away
 
 ## Other users:
 
@@ -23,6 +23,7 @@ Last available record on 2019-05-02 shows
 |---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 117.48 | 117.48 | 2019-04-26 | 11 |
 |  | Old Man Willow | 40.23 | 157.72 | 2019-04-27 | 12 |
+|  | Bree | 59.55 | 217.26 | 2019-05-03 | 18 |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -30,19 +31,24 @@ We are listing 22 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 7 | 6.44 | 217.26 | Reach Bree. Stay at The Prancing Pony. Meet Strider. Ponies stolen during night. |
-| 8 | 0 | 217.26 | Leave Bree on East Road (ca. 9:30 a.m.). |
-|   | 8.05 | 225.31 | Leave road and head north into Chetwood. No living things all day. |
-|   | 11.27 | 236.57 | Camp in Chetwood, east of Archet. |
+| 10 | 12.87 | 278.42 | Ground becomes damp. Entering western edge of Midgewater Marshes. |
+|   | 9.66 | 288.07 | Camp in western part of the Marshes. |
+| 11 | 24.14 | 312.21 | Camp in eastern part of the Marshes. See flashes of light in the east during the night (Gandalf on Weathertop). |
 
 
 # Log
 
-Joani traveled 212.2 km in 17 days.
+Joani traveled 268.02 km in 23 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 17 | Walk 7.8, Bike 7 | Daily Routine + bike->rowing (2:39) Frodo day 7. |
+ | 23 | Bike 3.92 | Frodo day 10. |
+ | 22 | Walk 6, Bike 6 | bike->rowing (20' w + 20min: 2:33 /500m) Frodo day 9. |
+ | 21 | Walk 2.2 |  |
+ | 20 | Walk 8.5 |  |
+ | 19 | Walk 5.6, Bike 8 | bike->rowing (1hour w)  |
+ | 18 | Walk 9.6, Bike 6 | Frodo day 8. |
+ | 17 | Walk 7.8, Bike 7 | Daily Routine + bike->rowing (2:39 /500m) Frodo day 7. |
  | 16 | Walk 5.5 | Morning walk .  |
  | 15 | Walk 6.6 | Daily Routine.  |
  | 14 | Walk 5.6 | Daily routine.  |
@@ -61,6 +67,6 @@ Joani traveled 212.2 km in 17 days.
  | 1 | Walk 11.2 | being a tourist.  |
 
 ---
-This page was refreshed on 2019-05-06 16:51 GMT
+This page was refreshed on 2019-05-08 11:38 GMT
 
 {% include userfooter.md %}
