@@ -21,7 +21,7 @@ This challenge is only follows Frodo and Sam, from Bag End to Mordor.
 These are the mileposts you will pass:
 
 | Phase | Milepost | Km | Miles |
-| --- | --- | :---: | :---: |
+| --- | --- | ---: | ---: |
 | Bag End to Rivendell | Crickhollow | 117.5 | 73 |
 | Bag End to Rivendell | Old Man Willow | 40.2 | 25 |
 | Bag End to Rivendell | Bree | 59.5 | 37 |
