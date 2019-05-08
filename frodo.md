@@ -16,8 +16,7 @@ Restarted his journey on February 16th towards Rauros, then Mt Doom. The ring wa
 These and many other tracks are available in the [Éowin challenge](http://home.insightbb.com/~eowynchallenge/Walk/walk.html){:target="_blank"}
 including the return to Bag End, or other paths followed by their friends.
 
-This challenge is only follows Frodo and Sam, from Bag End to Mordor.
-
+This challenge only follows Frodo and Sam, from Bag End to Mordor. 
 These are the mileposts you will pass:
 
 | Phase | Milepost | Km | Miles |
