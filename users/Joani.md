@@ -6,12 +6,12 @@ title: Walk to Mordor, Joani
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-08 shows
-* 23 Active days, 0 rest days
-* Distance 268.02 km
-  * Walk: 208.9 km
+Last available record on 2019-05-09 shows
+* 24 Active days, 0 rest days
+* Distance 281.02 km
+  * Walk: 221.9 km
   * Bike: 59.12 km
-* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 119.83 km away
+* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 106.83 km away
 
 ## Other users:
 
@@ -31,18 +31,18 @@ We are listing 22 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 10 | 12.87 | 278.42 | Ground becomes damp. Entering western edge of Midgewater Marshes. |
-|   | 9.66 | 288.07 | Camp in western part of the Marshes. |
+| 10 | 9.66 | 288.07 | Camp in western part of the Marshes. |
 | 11 | 24.14 | 312.21 | Camp in eastern part of the Marshes. See flashes of light in the east during the night (Gandalf on Weathertop). |
 
 
 # Log
 
-Joani traveled 268.02 km in 23 days.
+Joani traveled 281.02 km in 24 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 23 | Bike 3.92 | Frodo day 10. |
+ | 24 | Walk 6.9 | Frodo day 10. |
+ | 23 | Walk 6.1, Bike 3.92 |  |
  | 22 | Walk 6, Bike 6 | bike->rowing (20' w + 20min: 2:33 /500m) Frodo day 9. |
  | 21 | Walk 2.2 |  |
  | 20 | Walk 8.5 |  |
@@ -67,6 +67,6 @@ Joani traveled 268.02 km in 23 days.
  | 1 | Walk 11.2 | being a tourist.  |
 
 ---
-This page was refreshed on 2019-05-08 11:38 GMT
+This page was refreshed on 2019-05-13 12:39 GMT
 
 {% include userfooter.md %}

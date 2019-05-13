@@ -6,13 +6,13 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-05 shows
-* 20 Active days, 0 rest days
-* Distance 131.46 km
-  * Walk: 106.18 km
-  * Run: 9.87 km
-  * Bike: 15.41 km
-* Next milepost: Bag End to Rivendell, Old Man Willow is 26.26 km away
+Last available record on 2019-05-12 shows
+* 27 Active days, 0 rest days
+* Distance 179.15 km
+  * Walk: 137.46 km
+  * Run: 13.83 km
+  * Bike: 27.86 km
+* Next milepost: Bag End to Rivendell, Bree is 38.11 km away
 
 ## Other users:
 
@@ -23,27 +23,35 @@ PeterPan \| [Loki\>](Loki.md) \| [\>\>](Joani.md)
 | Stage | Milepost | Km | Total Km | Arrival date | Days |
 |---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 117.48 | 117.48 | 2019-05-04 | 19 |
+|  | Old Man Willow | 40.23 | 157.72 | 2019-05-11 | 26 |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
-We are listing 13.64 km, the same distance as your personal record in a day.
+We are listing 17.88 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 4 | 12.87 | 138.4 | On path in the Forest. Path climbs gently. |
-|   | 1.61 | 140.01 | Top of knoll in Forest. Hazy. Surrounded by Trees. Eat, rest (11 a.m.-ca.1 p.m.) |
-|   | 1.61 | 141.62 | Path veers SE. Company leaves path and tries to turn north. |
-|   | 3.22 | 144.84 | Cross series of deep folds running SE. Keep turning east. Lose direction. |
-|   | 1.61 | 146.45 | Enter fold too deep to leave. Follow it SE to Withywindle (ca. 4 p.m.). |
+| 6 | 22.53 | 180.25 | Midday. Stop in a hollow atop a hill. Eat and fall asleep. Wake in fog, sun sinking. |
+|   | 4.83 | 185.07 | Try to head north, but lose their way and become separated. Captured by Wights. |
+| 7 | 0 | 185.07 | Frodo sings, Tom rescues and recalls ponies. Leave about 10 a.m. Tom leads. |
+|   | 4.83 | 189.9 | Ride north through a gap. |
+|   | 8.05 | 197.95 | Reach dike and hedge. Former boundary of Cardolan, part of the North Kingdom of Arnor. |
 
 
 # Log
 
-PeterPan traveled 131.46 km in 20 days.
+PeterPan traveled 179.15 km in 27 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 20 | Walk 5.58 | Frodo day 4. |
+ | 27 | Walk 4.82, Run 2.05 | Frodo day 6. |
+ | 26 | Walk 5.43, Bike 12.45 |  |
+ | 25 | Walk 3.38, Run 1.91 | Frodo day 4. |
+ | 24 | Walk 5.46 |  |
+ | 23 | Walk 4.23 |  |
+ | 22 | Walk 4.28 |  |
+ | 21 | Walk 3.68 |  |
+ | 20 | Walk 5.58 |  |
  | 19 | Walk 7.89, Run 1.81 |  |
  | 18 | Walk 4.63, Run 1.72, Bike 1.74 | Frodo day 3. |
  | 17 | Walk 5.09 |  |
@@ -65,6 +73,6 @@ PeterPan traveled 131.46 km in 20 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-05-08 11:38 GMT
+This page was refreshed on 2019-05-13 12:39 GMT
 
 {% include userfooter.md %}
