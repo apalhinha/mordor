@@ -6,11 +6,11 @@ title: Walk to Mordor, Loki
 
 Started the 'Walk to Mordor' challenge on 2019-04-17
 
-Last available record on 2019-04-28 shows
-* 5 Active days, 7 rest days
-* Distance 11.81 mi
-  * Run: 11.81 mi
-* Next milepost: Bag End to Rivendell, Crickhollow is 61.19 mi away
+Last available record on 2019-05-12 shows
+* 11 Active days, 15 rest days
+* Distance 29.21 mi
+  * Run: 29.21 mi
+* Next milepost: Bag End to Rivendell, Crickhollow is 43.79 mi away
 
 ## Other users:
 
@@ -18,27 +18,33 @@ Last available record on 2019-04-28 shows
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
-We are listing 2.8 mi, the same distance as your personal record in a day.
+We are listing 3 mi, the same distance as your personal record in a day.
 
 | Day | Miles | Total | Notes |
 | --- | --- | --- | --- |
-| 1 | 3.5 | 14.5 | Reach Stock Road |
-|   | 1 | 15.5 | Begin to sing. Walk through a deeply cloven track between tall trees. |
+| 2 | 3 | 32 | Road ahead runs fairly straight and level. Behind them it curves slightly. A Black Rider comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |
+|   | 3 | 35 | Keep a stone's throw left of the road...slower going. |
 
 
 # Log
 
-Loki traveled 11.81 mi in 12 days.
+Loki traveled 29.21 mi in 26 days.
 
 | Day | Miles | Total | Notes |
 | --- | --- | --- | --- |
- | 12 | Run 2.8 | Frodo day 1. |
+ | 26 | Run 3 | Frodo day 2. |
+ | 23 | Run 3 |  |
+ | 21 | Run 3 |  |
+ | 19 | Run 2.8 |  |
+ | 16 | Run 2.8 | Frodo day 1. |
+ | 14 | Run 2.8 |  |
+ | 12 | Run 2.8 |  |
  | 9 | Run 2.5 |  |
  | 6 | Run 2.1 |  |
  | 4 | Run 2.4 |  |
  | 1 | Run 2.01 |  |
 
 ---
-This page was refreshed on 2019-05-13 12:39 GMT
+This page was refreshed on 2019-05-17 13:31 GMT
 
 {% include userfooter.md %}

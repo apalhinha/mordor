@@ -5,19 +5,19 @@ Fellowship of the ring
 
 | Who | Km / Miles | Split | Days and start | Active / rest | Next milepost |
 | --- | :---: | --- | --- | --- |
-| [PeterPan](users/PeterPan.md) | 179.15 / 111.32 | Walk/Run/Bike: 77/8/16% | 27, 2019-04-16 | 27 / 0 | Bree, 38.11 km |
-| [Loki](users/Loki.md) | 19.01 / 11.81 | Run: 100% | 12, 2019-04-17 | 5 / 7 | Crickhollow, 61.19 mi |
-| [Joani](users/Joani.md) | 281.02 / 174.62 | Walk/Bike: 79/21% | 24, 2019-04-16 | 24 / 0 | Ruins of Weathertop, 106.83 km |
+| [PeterPan](users/PeterPan.md) | 207.43 / 128.89 | Walk/Run/Bike: 73/8/19% | 30, 2019-04-16 | 30 / 0 | Bree, 9.83 km |
+| [Loki](users/Loki.md) | 47.01 / 29.21 | Run: 100% | 26, 2019-04-17 | 11 / 15 | Crickhollow, 43.79 mi |
+| [Joani](users/Joani.md) | 335.42 / 208.42 | Walk/Bike: 78/22% | 29, 2019-04-16 | 29 / 0 | Ruins of Weathertop, 52.43 km |
 
 # Together with Frodo
 
 | Distance | Frodo | This team |
 | --- | --- | --- |
-| 23.34 / 14.5 | Day 1, Reach Stock Road |  [Loki](users/Loki.md), day 12. |
-| 180.25 / 112 | Day 6, Midday. Stop in a hollow atop a hill. Eat and fall asleep. Wake in fog, sun sinking. |  [PeterPan](users/PeterPan.md), day 27. |
-| 288.07 / 179 | Day 10, Camp in western part of the Marshes. |  [Joani](users/Joani.md), day 24. |
+| 51.5 / 32 | Day 2, Road ahead runs fairly straight and level. Behind them it curves slightly. A Black Rider comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |  [Loki](users/Loki.md), day 26. |
+| 210.82 / 131 | Day 7, Return to Great East Road (ca.5:30). Tom departs. Strider sees them, but hides. |  [PeterPan](users/PeterPan.md), day 30: Trying to catch up. |
+| 339.57 / 211 | Day 12, Camp by a stream, among stunted alder trees. Moon waxing. |  [Joani](users/Joani.md), day 29: bike->rowing (20' w + 20min: 2:33 /500m) |
 
 ---
-This page was refreshed on 2019-05-13 12:39 GMT
+This page was refreshed on 2019-05-17 13:31 GMT
 
 {% include footer.md %}

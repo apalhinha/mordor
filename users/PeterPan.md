@@ -6,13 +6,13 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-12 shows
-* 27 Active days, 0 rest days
-* Distance 179.15 km
-  * Walk: 137.46 km
-  * Run: 13.83 km
-  * Bike: 27.86 km
-* Next milepost: Bag End to Rivendell, Bree is 38.11 km away
+Last available record on 2019-05-15 shows
+* 30 Active days, 0 rest days
+* Distance 207.43 km
+  * Walk: 151.12 km
+  * Run: 15.89 km
+  * Bike: 40.42 km
+* Next milepost: Bag End to Rivendell, Bree is 9.83 km away
 
 ## Other users:
 
@@ -31,19 +31,22 @@ We are listing 17.88 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 6 | 22.53 | 180.25 | Midday. Stop in a hollow atop a hill. Eat and fall asleep. Wake in fog, sun sinking. |
-|   | 4.83 | 185.07 | Try to head north, but lose their way and become separated. Captured by Wights. |
-| 7 | 0 | 185.07 | Frodo sings, Tom rescues and recalls ponies. Leave about 10 a.m. Tom leads. |
-|   | 4.83 | 189.9 | Ride north through a gap. |
-|   | 8.05 | 197.95 | Reach dike and hedge. Former boundary of Cardolan, part of the North Kingdom of Arnor. |
+| 7 | 12.87 | 210.82 | Return to Great East Road (ca.5:30). Tom departs. Strider sees them, but hides. |
+|   | 6.44 | 217.26 | Reach Bree. Stay at The Prancing Pony. Meet Strider. Ponies stolen during night. |
+| 8 | 0 | 217.26 | Leave Bree on East Road (ca. 9:30 a.m.). |
+|   | 8.05 | 225.31 | Leave road and head north into Chetwood. No living things all day. |
+|   | 11.27 | 236.57 | Camp in Chetwood, east of Archet. |
 
 
 # Log
 
-PeterPan traveled 179.15 km in 27 days.
+PeterPan traveled 207.43 km in 30 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
+ | 30 | Walk 3.61, Bike 12.56 | Trying to catch up. Frodo day 7. |
+ | 29 | Walk 4.03, Run 2.06 |  |
+ | 28 | Walk 6.02 |  |
  | 27 | Walk 4.82, Run 2.05 | Frodo day 6. |
  | 26 | Walk 5.43, Bike 12.45 |  |
  | 25 | Walk 3.38, Run 1.91 | Frodo day 4. |
@@ -73,6 +76,6 @@ PeterPan traveled 179.15 km in 27 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-05-13 12:39 GMT
+This page was refreshed on 2019-05-17 13:31 GMT
 
 {% include userfooter.md %}
