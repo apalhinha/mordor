@@ -5,19 +5,19 @@ Fellowship of the ring
 
 | Who | Km / Miles | Split | Days and start | Active / rest | Next milepost |
 | --- | :---: | --- | --- | --- |
-| [PeterPan](users/PeterPan.md) | 207.43 / 128.89 | Walk/Run/Bike: 73/8/19% | 30, 2019-04-16 | 30 / 0 | Bree, 9.83 km |
-| [Loki](users/Loki.md) | 47.01 / 29.21 | Run: 100% | 26, 2019-04-17 | 11 / 15 | Crickhollow, 43.79 mi |
-| [Joani](users/Joani.md) | 335.42 / 208.42 | Walk/Bike: 78/22% | 29, 2019-04-16 | 29 / 0 | Ruins of Weathertop, 52.43 km |
+| [PeterPan](users/PeterPan.md) | 236.73 / 147.1 | Walk/Run/Bike: 73/9/19% | 35, 2019-04-16 | 34 / 1 | Ruins of Weathertop, 151.12 km |
+| [Loki](users/Loki.md) | 61.49 / 38.21 | Run: 100% | 33, 2019-04-17 | 14 / 19 | Crickhollow, 34.79 mi |
+| [Joani](users/Joani.md) | 395.02 / 245.45 | Walk/Bike: 80/20% | 35, 2019-04-16 | 35 / 0 | The lands of the Trollshaws, 187.56 km |
 
 # Together with Frodo
 
 | Distance | Frodo | This team |
 | --- | --- | --- |
-| 51.5 / 32 | Day 2, Road ahead runs fairly straight and level. Behind them it curves slightly. A Black Rider comes. Sam and Pippin hide in a hollow. Frodo behind tree by road (ca.5 p.m.). |  [Loki](users/Loki.md), day 26. |
-| 210.82 / 131 | Day 7, Return to Great East Road (ca.5:30). Tom departs. Strider sees them, but hides. |  [PeterPan](users/PeterPan.md), day 30: Trying to catch up. |
-| 339.57 / 211 | Day 12, Camp by a stream, among stunted alder trees. Moon waxing. |  [Joani](users/Joani.md), day 29: bike->rowing (20' w + 20min: 2:33 /500m) |
+| 65.98 / 41 | Day 2, 'And now to bed!' Pippin says, when Black Rider is heard again (ca. 9 p.m.). Elves arrive, Rider leaves, and Frodo & Co. continue with Elves. |  [Loki](users/Loki.md), day 33. |
+| 262.32 / 163 | Day 9, Camp in eastern Chetwood. |  [PeterPan](users/PeterPan.md), day 35: Bike to school. |
+| 403.95 / 251 | Day 15, Cross Great East Road and enter thickets on south side. Land slopes south. |  [Joani](users/Joani.md), day 35. |
 
 ---
-This page was refreshed on 2019-05-17 13:31 GMT
+This page was refreshed on 2019-05-21 10:16 GMT
 
 {% include footer.md %}

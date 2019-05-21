@@ -6,12 +6,12 @@ title: Walk to Mordor, Joani
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-14 shows
-* 29 Active days, 0 rest days
-* Distance 335.42 km
-  * Walk: 263.3 km
-  * Bike: 72.12 km
-* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 52.43 km away
+Last available record on 2019-05-20 shows
+* 35 Active days, 0 rest days
+* Distance 395.02 km
+  * Walk: 314.9 km
+  * Bike: 80.12 km
+* Next milepost: Bag End to Rivendell, The lands of the Trollshaws is 187.56 km away
 
 ## Other users:
 
@@ -24,6 +24,7 @@ Last available record on 2019-05-14 shows
 | Bag End to Rivendell | Crickhollow | 117.48 | 117.48 | 2019-04-26 | 11 |
 |  | Old Man Willow | 40.23 | 157.72 | 2019-04-27 | 12 |
 |  | Bree | 59.55 | 217.26 | 2019-05-03 | 18 |
+|  | Ruins of Weathertop | 170.59 | 387.85 | 2019-05-20 | 35 |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -31,17 +32,22 @@ We are listing 22 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 12 | 20.92 | 339.57 | Camp by a stream, among stunted alder trees. Moon waxing. |
-| 13 | 0 | 339.57 | Frost. Very clear. Can see crumbled ruins on Hills ahead. |
-|   | 28.97 | 368.54 | Reach foot of the Weather Hills. Camp there. |
+| 15 | 16.09 | 403.95 | Cross Great East Road and enter thickets on south side. Land slopes south. |
+|   | 14.48 | 418.43 | Camp in thickets. |
 
 
 # Log
 
-Joani traveled 335.42 km in 29 days.
+Joani traveled 395.02 km in 35 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
+ | 35 | Walk 10.2 | Frodo day 15. |
+ | 34 | Walk 13.1 | Frodo day 14. |
+ | 33 | Walk 7.9, Bike 8 | bike->rowing (1hour w)  |
+ | 32 | Walk 6.5 | Frodo day 13. |
+ | 31 | Walk 6.6 |  |
+ | 30 | Walk 7.3 |  |
  | 29 | Walk 6.5, Bike 6 | bike->rowing (20' w + 20min: 2:33 /500m) Frodo day 12. |
  | 28 | Walk 8.2, Bike 2 | gym.  |
  | 27 | Walk 9.6 | Frodo day 11. |
@@ -73,6 +79,6 @@ Joani traveled 335.42 km in 29 days.
  | 1 | Walk 11.2 | being a tourist.  |
 
 ---
-This page was refreshed on 2019-05-17 13:31 GMT
+This page was refreshed on 2019-05-21 10:16 GMT
 
 {% include userfooter.md %}

@@ -6,13 +6,13 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-15 shows
-* 30 Active days, 0 rest days
-* Distance 207.43 km
-  * Walk: 151.12 km
-  * Run: 15.89 km
-  * Bike: 40.42 km
-* Next milepost: Bag End to Rivendell, Bree is 9.83 km away
+Last available record on 2019-05-20 shows
+* 34 Active days, 1 rest days
+* Distance 236.73 km
+  * Walk: 171.71 km
+  * Run: 20.3 km
+  * Bike: 44.72 km
+* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 151.12 km away
 
 ## Other users:
 
@@ -24,6 +24,7 @@ PeterPan \| [Loki\>](Loki.md) \| [\>\>](Joani.md)
 |---|---|---|---|---|---|
 | Bag End to Rivendell | Crickhollow | 117.48 | 117.48 | 2019-05-04 | 19 |
 |  | Old Man Willow | 40.23 | 157.72 | 2019-05-11 | 26 |
+|  | Bree | 59.55 | 217.26 | 2019-05-18 | 33 |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -31,20 +32,20 @@ We are listing 17.88 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 7 | 12.87 | 210.82 | Return to Great East Road (ca.5:30). Tom departs. Strider sees them, but hides. |
-|   | 6.44 | 217.26 | Reach Bree. Stay at The Prancing Pony. Meet Strider. Ponies stolen during night. |
-| 8 | 0 | 217.26 | Leave Bree on East Road (ca. 9:30 a.m.). |
-|   | 8.05 | 225.31 | Leave road and head north into Chetwood. No living things all day. |
-|   | 11.27 | 236.57 | Camp in Chetwood, east of Archet. |
+| 9 | 25.75 | 262.32 | Camp in eastern Chetwood. |
 
 
 # Log
 
-PeterPan traveled 207.43 km in 30 days.
+PeterPan traveled 236.73 km in 35 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 30 | Walk 3.61, Bike 12.56 | Trying to catch up. Frodo day 7. |
+ | 35 | Walk 5.02, Bike 4.3 | Bike to school. Frodo day 9. |
+ | 34 | Walk 5.04 | Frodo day 8. |
+ | 33 | Walk 4.4, Run 2.27 |  |
+ | 32 | Walk 6.13, Run 2.14 | Frodo day 7. |
+ | 30 | Walk 3.61, Bike 12.56 | Trying to catch up.  |
  | 29 | Walk 4.03, Run 2.06 |  |
  | 28 | Walk 6.02 |  |
  | 27 | Walk 4.82, Run 2.05 | Frodo day 6. |
@@ -76,6 +77,6 @@ PeterPan traveled 207.43 km in 30 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-05-17 13:31 GMT
+This page was refreshed on 2019-05-21 10:16 GMT
 
 {% include userfooter.md %}
