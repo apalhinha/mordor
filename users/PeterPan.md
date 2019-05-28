@@ -6,13 +6,13 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-20 shows
-* 34 Active days, 1 rest days
-* Distance 236.73 km
-  * Walk: 171.71 km
+Last available record on 2019-05-27 shows
+* 41 Active days, 1 rest days
+* Distance 270.39 km
+  * Walk: 205.37 km
   * Run: 20.3 km
   * Bike: 44.72 km
-* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 151.12 km away
+* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 117.46 km away
 
 ## Other users:
 
@@ -32,16 +32,25 @@ We are listing 17.88 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 9 | 25.75 | 262.32 | Camp in eastern Chetwood. |
+| 10 | 12.87 | 278.42 | Ground becomes damp. Entering western edge of Midgewater Marshes. |
+|   | 9.66 | 288.07 | Camp in western part of the Marshes. |
+| 11 | 24.14 | 312.21 | Camp in eastern part of the Marshes. See flashes of light in the east during the night (Gandalf on Weathertop). |
 
 
 # Log
 
-PeterPan traveled 236.73 km in 35 days.
+PeterPan traveled 270.39 km in 42 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 35 | Walk 5.02, Bike 4.3 | Bike to school. Frodo day 9. |
+ | 42 | Walk 3.92 | Frodo day 10. |
+ | 41 | Walk 5.03 |  |
+ | 40 | Walk 4.61 | Frodo day 9. |
+ | 39 | Walk 5.03 |  |
+ | 38 | Walk 4.48 |  |
+ | 37 | Walk 4.48 |  |
+ | 36 | Walk 6.11 |  |
+ | 35 | Walk 5.02, Bike 4.3 | Bike to school.  |
  | 34 | Walk 5.04 | Frodo day 8. |
  | 33 | Walk 4.4, Run 2.27 |  |
  | 32 | Walk 6.13, Run 2.14 | Frodo day 7. |
@@ -77,6 +86,6 @@ PeterPan traveled 236.73 km in 35 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-05-21 10:16 GMT
+This page was refreshed on 2019-05-28 15:08 GMT
 
 {% include userfooter.md %}
