@@ -6,13 +6,13 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-05-27 shows
-* 41 Active days, 1 rest days
-* Distance 270.39 km
-  * Walk: 205.37 km
-  * Run: 20.3 km
-  * Bike: 44.72 km
-* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 117.46 km away
+Last available record on 2019-06-06 shows
+* 51 Active days, 1 rest days
+* Distance 370.32 km
+  * Walk: 287.65 km
+  * Run: 36.42 km
+  * Bike: 46.25 km
+* Next milepost: Bag End to Rivendell, Ruins of Weathertop is 17.53 km away
 
 ## Other users:
 
@@ -32,18 +32,30 @@ We are listing 17.88 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 10 | 12.87 | 278.42 | Ground becomes damp. Entering western edge of Midgewater Marshes. |
-|   | 9.66 | 288.07 | Camp in western part of the Marshes. |
-| 11 | 24.14 | 312.21 | Camp in eastern part of the Marshes. See flashes of light in the east during the night (Gandalf on Weathertop). |
+| 14 | 16.09 | 384.63 | Midday - Near south end of path. Reach dell at western foot of hill. |
+|   | 1.61 | 386.24 | Climb to top of Weathertop and enter the ruins of the watch Tower of Amon. See Black Riders on road below. |
+|   | 1.61 | 387.85 | Return to dell. Camp there. Attack of Nazgul at night. |
+| 15 | 0 | 387.85 | Injured, Frodo is carried on pony. Head south from dell. |
+|   | 16.09 | 403.95 | Cross Great East Road and enter thickets on south side. Land slopes south. |
 
 
 # Log
 
-PeterPan traveled 270.39 km in 42 days.
+PeterPan traveled 370.32 km in 52 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 42 | Walk 3.92 | Frodo day 10. |
+ | 52 | Walk 8.51, Run 3.04 | Frodo day 14. |
+ | 51 | Walk 12.06, Run 2.87 | Frodo day 13. |
+ | 50 | Walk 9.43, Run 2.75, Bike 1.53 |  |
+ | 49 | Walk 10.05, Run 2.63 | Frodo day 12. |
+ | 48 | Walk 5.49 | Frodo day 11. |
+ | 47 | Walk 10.32, Run 2.53 | Frodo day 10. |
+ | 46 | Walk 10.11 |  |
+ | 45 | Walk 7.4 |  |
+ | 44 | Walk 3.31 |  |
+ | 43 | Walk 5.6, Run 2.3 |  |
+ | 42 | Walk 3.92 |  |
  | 41 | Walk 5.03 |  |
  | 40 | Walk 4.61 | Frodo day 9. |
  | 39 | Walk 5.03 |  |
@@ -86,6 +98,6 @@ PeterPan traveled 270.39 km in 42 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-05-28 15:08 GMT
+This page was refreshed on 2019-06-07 12:33 GMT
 
 {% include userfooter.md %}
