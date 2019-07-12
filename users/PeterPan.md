@@ -8,11 +8,11 @@ Started the 'Walk to Mordor' challenge on 2019-04-16
 
 Last available record on 2019-07-11 shows
 * 83 Active days, 4 rest days
-* Distance 620.2 km
+* Distance 657.45 km
   * Walk: 537.53 km
-  * Run: 36.42 km
+  * Run: 73.67 km
   * Bike: 46.25 km
-* Next milepost: Bag End to Rivendell, Rivendell is 116.88 km away
+* Next milepost: Bag End to Rivendell, Rivendell is 79.63 km away
 
 ## Other users:
 
@@ -26,7 +26,7 @@ PeterPan \| [Loki\>](Loki.md) \| [\>\>](Joani.md)
 |  | Old Man Willow | 40.23 | 157.72 | 2019-05-11 | 26 |
 |  | Bree | 59.55 | 217.26 | 2019-05-18 | 33 |
 |  | Ruins of Weathertop | 170.59 | 387.85 | 2019-06-08 | 54 |
-|  | The lands of the Trollshaws | 194.73 | 582.58 | 2019-07-05 | 81 |
+|  | The lands of the Trollshaws | 194.73 | 582.58 | 2019-07-01 | 77 |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
@@ -34,51 +34,46 @@ We are listing 17.88 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 25 | 9.66 | 621.21 | Rain stops. Strider scouts. Start late. Turn SE, scrambling over rocky ground. Find a valley, but it ends in a high ridge. Climb ridge and camp in a saddle at top. COLD. Build a fire under a gnarled pine. |
-| 26 | 1.61 | 622.82 | Slope beyond ridge is much easier. Bright, fair day. Strider briefly sees the Loudwater/Bruinen in the distance. |
-|   | 3.22 | 626.03 | Reach a trail. |
-|   | 4.83 | 630.86 | Find Troll-hole. Continue on level path through woods. |
-|   | 1.61 | 632.47 | Stone Trolls. Rest. Sam recites 'Old Troll'. Continue in afternoon. Woods. |
-|   | 11.27 | 643.74 | Return to the Road. |
+| 26 | 24.14 | 675.92 | March all night. Frodo is on Glorfindel's horse. Camp next to the road at dawn. |
 
 
 # Log
 
-PeterPan traveled 620.2 km in 87 days.
+PeterPan traveled 657.45 km in 87 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 87 | Walk 4.83 | Frodo day 24. |
+ | 87 | Walk 4.83 | Frodo day 26. |
  | 86 | Walk 8.11 |  |
- | 83 | Walk 5.36 | Frodo day 23. |
+ | 83 | Walk 5.36 |  |
  | 82 | Walk 8.8 |  |
- | 81 | Walk 12.68 | Frodo day 22. |
- | 80 | Walk 7.85 | Frodo day 21. |
- | 79 | Walk 5.21 | Frodo day 20. |
- | 78 | Walk 10.31 | Frodo day 19. |
- | 77 | Walk 3.72 |  |
+ | 81 | Walk 12.68 |  |
+ | 80 | Walk 7.85, Run 4.3 | Frodo day 24. |
+ | 79 | Walk 5.21 | Frodo day 23. |
+ | 78 | Walk 10.31, Run 4.13 | Frodo day 22. |
+ | 77 | Walk 3.72 | Frodo day 21. |
  | 76 | Walk 5.33 |  |
  | 75 | Walk 6.42 |  |
- | 74 | Walk 11.93 |  |
- | 73 | Walk 9.78 | Frodo day 18. |
+ | 74 | Walk 11.93, Run 4.02 | Frodo day 19. |
+ | 73 | Walk 9.78, Run 3.82 |  |
  | 72 | Walk 8.84 |  |
- | 71 | Walk 10.83 |  |
- | 69 | Walk 5.19 | Frodo day 17. |
+ | 71 | Walk 10.83, Run 3.66 | Frodo day 18. |
+ | 69 | Walk 5.19 |  |
  | 68 | Walk 7.02 |  |
- | 67 | Walk 7.25 |  |
+ | 67 | Walk 7.25 | Frodo day 17. |
  | 66 | Walk 5.57 |  |
- | 65 | Walk 12.74 | Frodo day 16. |
- | 64 | Walk 11.61 |  |
+ | 65 | Walk 12.74, Run 3.55 |  |
+ | 64 | Walk 11.61, Run 3.56 | Frodo day 16. |
  | 63 | Walk 3.79 |  |
- | 62 | Walk 4.34 | Frodo day 15. |
- | 61 | Walk 11.38 |  |
- | 60 | Walk 7.16 |  |
- | 59 | Walk 7.64 |  |
+ | 62 | Walk 4.34 |  |
+ | 61 | Walk 11.38, Run 3.22 |  |
+ | 60 | Walk 7.16 | Frodo day 15. |
+ | 59 | Walk 7.64, Run 3.14 |  |
  | 58 | Walk 3.94 |  |
  | 57 | Walk 7.64 |  |
- | 56 | Walk 8.4 |  |
+ | 56 | Walk 8.4, Run 0.81 |  |
  | 55 | Walk 7.73 |  |
- | 54 | Walk 9.3 |  |
+ | 54 | Walk 9.3, Run 3.04 |  |
  | 53 | Walk 9.18 | Frodo day 14. |
  | 52 | Walk 8.51, Run 3.04 |  |
  | 51 | Walk 12.06, Run 2.87 | Frodo day 13. |
@@ -133,6 +128,6 @@ PeterPan traveled 620.2 km in 87 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-07-12 11:19 GMT
+This page was refreshed on 2019-07-12 12:06 GMT
 
 {% include userfooter.md %}
