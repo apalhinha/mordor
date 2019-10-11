@@ -6,13 +6,13 @@ title: Walk to Mordor, PeterPan
 
 Started the 'Walk to Mordor' challenge on 2019-04-16
 
-Last available record on 2019-07-11 shows
-* 83 Active days, 4 rest days
-* Distance 657.45 km
-  * Walk: 537.53 km
-  * Run: 73.67 km
+Last available record on 2019-10-10 shows
+* 141 Active days, 37 rest days
+* Distance 1,089.04 km
+  * Walk: 912.31 km
+  * Run: 130.48 km
   * Bike: 46.25 km
-* Next milepost: Bag End to Rivendell, Rivendell is 79.63 km away
+* Next milepost: Rivendell to Lothlorien, Hollin Ridge is 21.41 km away
 
 ## Other users:
 
@@ -27,23 +27,84 @@ PeterPan \| [Loki\>](Loki.md) \| [\>\>](Joani.md)
 |  | Bree | 59.55 | 217.26 | 2019-05-18 | 33 |
 |  | Ruins of Weathertop | 170.59 | 387.85 | 2019-06-08 | 54 |
 |  | The lands of the Trollshaws | 194.73 | 582.58 | 2019-07-01 | 77 |
+|  | Rivendell | 154.5 | 737.08 | 2019-07-20 | 96 |
 
 # And Frodo?
 From this point onward, the following happened to Frodo.
-We are listing 17.88 km, the same distance as your personal record in a day.
+We are listing 20.87 km, the same distance as your personal record in a day.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
-| 26 | 24.14 | 675.92 | March all night. Frodo is on Glorfindel's horse. Camp next to the road at dawn. |
+| 107 | 4.83 | 1,091.14 | Weather warmer and sunny. Can see Mts. of Moria in distance. Eerily quiet. |
+|   | 12.87 | 1,104.01 | Begin climb up north side of Hollin Ridge. |
+|   | 6.44 | 1,110.45 | Reach Hollin Ridge. Large holly trees mark ridge. Day camp on Hollin Ridge. They plan to stay overnight, but after the crebain fly over, they leave at dusk. |
 
 
 # Log
 
-PeterPan traveled 657.45 km in 87 days.
+PeterPan traveled 1,089.04 km in 178 days.
 
 | Day | Km | Total | Notes |
 | --- | --- | --- | --- |
- | 87 | Walk 4.83 | Frodo day 26. |
+ | 178 | Walk 6.68 | Frodo day 106. |
+ | 177 | Walk 3.87 |  |
+ | 176 | Walk 5.38 |  |
+ | 163 | Walk 4 | Frodo day 105. |
+ | 152 | Walk 6.9 |  |
+ | 151 | Walk 3.85 |  |
+ | 150 | Walk 3.82 |  |
+ | 149 | Walk 6.97 |  |
+ | 148 | Walk 8.01 |  |
+ | 147 | Walk 11.29, Run 7.04 |  |
+ | 146 | Walk 4.43 | Frodo day 103. |
+ | 145 | Walk 4.75 |  |
+ | 144 | Walk 14.05, Run 6.82 |  |
+ | 143 | Walk 7.78 | Frodo day 102. |
+ | 142 | Walk 13.38, Run 6.22 |  |
+ | 141 | Walk 10 | Frodo day 101. |
+ | 140 | Walk 11.99, Run 6.14 |  |
+ | 139 | Walk 3.92 | Frodo day 100. |
+ | 138 | Walk 6.28 |  |
+ | 137 | Walk 8.43, Run 6.02 |  |
+ | 136 | Walk 4.58 |  |
+ | 135 | Walk 3.44 |  |
+ | 134 | Walk 3.53 |  |
+ | 133 | Walk 4.04 | Frodo day 99. |
+ | 131 | Walk 7.07 |  |
+ | 130 | Walk 5.37 |  |
+ | 128 | Walk 4.77 |  |
+ | 127 | Walk 5.77 |  |
+ | 126 | Walk 7.44 | Frodo day 98. |
+ | 125 | Walk 6.57 |  |
+ | 124 | Walk 5.26 |  |
+ | 123 | Walk 3.25 |  |
+ | 118 | Walk 5.46 |  |
+ | 117 | Walk 6.61 | Frodo day 97. |
+ | 116 | Walk 6.1 |  |
+ | 115 | Walk 9.64, Run 3.44 |  |
+ | 113 | Walk 3.62 | Frodo day 96. |
+ | 112 | Walk 3.81 |  |
+ | 111 | Walk 3.92 |  |
+ | 110 | Walk 10.87, Run 5.04 | Frodo day 95. |
+ | 109 | Walk 4.78 |  |
+ | 108 | Walk 4.69 |  |
+ | 107 | Walk 10.44, Run 4.87 |  |
+ | 106 | Walk 3.63 | Frodo day 94. |
+ | 105 | Walk 3.56 |  |
+ | 104 | Walk 4.05 |  |
+ | 103 | Walk 4.1 |  |
+ | 102 | Walk 4.65 |  |
+ | 97 | Walk 7.76 |  |
+ | 96 | Walk 10.46, Run 4.65 |  |
+ | 95 | Walk 12.1, Run 4.57 | Frodo day 28. |
+ | 94 | Walk 6.19 | Frodo day 27. |
+ | 93 | Walk 7.65 |  |
+ | 92 | Walk 6.32 |  |
+ | 91 | Walk 8.53, Run 2 |  |
+ | 90 | Walk 9.11 |  |
+ | 89 | Walk 6.41 | Frodo day 26. |
+ | 88 | Walk 3.45 |  |
+ | 87 | Walk 4.83 |  |
  | 86 | Walk 8.11 |  |
  | 83 | Walk 5.36 |  |
  | 82 | Walk 8.8 |  |
@@ -128,6 +189,6 @@ PeterPan traveled 657.45 km in 87 days.
  | 1 | Walk 3.97 | Health not that good. Walked around CCA.  |
 
 ---
-This page was refreshed on 2019-07-12 12:06 GMT
+This page was refreshed on 2019-10-11 11:24 GMT
 
 {% include userfooter.md %}

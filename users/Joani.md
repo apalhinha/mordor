@@ -79,6 +79,6 @@ Joani traveled 395.02 km in 35 days.
  | 1 | Walk 11.2 | being a tourist.  |
 
 ---
-This page was refreshed on 2019-07-12 12:06 GMT
+This page was refreshed on 2019-10-11 11:24 GMT
 
 {% include userfooter.md %}
